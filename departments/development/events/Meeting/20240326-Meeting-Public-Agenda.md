@@ -1,4 +1,4 @@
-# Juno Dev Dept Meeting (Public) - March 26th, 2024
+# Juno Dev Dept Meeting (Public) Agenda - March 26th, 2024
 
 ###### tags: `Public` Meeting` `Juno` `Development Department`
 
@@ -44,7 +44,3 @@
 
 1. Promotion of RFPs / Communications
 2. Next Technical Space
-
-# Meeting Minutes
-
-#### March 26th, 2024 17:15 UTC
