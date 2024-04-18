@@ -92,8 +92,10 @@
   1. Discussion on the dApp and that it needs to be created
   1. Money Market dApp and waiting for feedback from Abstract
   1. Private TG Group
-  1. @kopeboy: would like to define a strategy
-  1. Poroburu: networks like Juno require a vision and a strategy
+  1. @kopeboy:
+      1. Discussion with Abstract dev in private has strategic relevance, @kopeboy would like to have access to the group or published updates.
+      1. Define a strategy within the Council; start focusing on product (appchain) development and end-users who can sustain the network by investing.
+  1. @poroburu: networks like Juno require a vision and a strategy
     1. challenge all delegates to create a vision station
     1. Poroburu Vision: Juno acting as a middleware (IBC) for all chains + creating rails for DAOs
   1. Restake DAO 
