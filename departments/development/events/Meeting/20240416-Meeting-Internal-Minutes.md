@@ -64,7 +64,8 @@
   - no new responses
 
 1. Darkside Podcast Response
-  - Lorenzo is still working on a response
+  - Lorenzo has prepared a response awaiting dev dept member approval
+    - [discord: response](https://discord.com/channels/816256689078403103/1175785630052126810/1227599177043677184)
 
 1. New Metric Public Presentation
   - Meeting Scheduling for Thursday 18th April 2024 at 17UTC
