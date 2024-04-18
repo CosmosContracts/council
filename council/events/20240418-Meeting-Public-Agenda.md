@@ -1,4 +1,5 @@
 # Juno Council Meeting Agenda - April 18th, 2024 15:00UTC
+===
 
 ###### tags: `Meeting` `Juno` `Council`
 
@@ -53,6 +54,7 @@
     * https://www.youtube.com/watch?v=anwIUBmXyLg
     * Presentation after Council Meeting 
 
+
 ## New Business
 
 1. Unsolicitied Airdrop Policy
@@ -60,3 +62,4 @@
 1. Vision / Mission Statement Purpose Working Group creation
 
 1. Budget Meeting Scheduling (for next Thursday Apr 25th)
+
