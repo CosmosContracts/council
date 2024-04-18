@@ -8,12 +8,12 @@
 
 1. Open Meeting
 1. Start Recording `/join`
-1. Roll Call `1min`
-1. Review and Approve Previous Meeting Minutes `5min`
-1. Agenda Amendments `5min`
+1. Roll Call
+1. Review and Approve Previous Meeting Minutes
+1. Agenda Amendments `5 minutes`
 1. Agenda Items + Discussion `30 minutes`
 1. Public Comment: `20 minutes`
-1. Close Meeting (Agenda/Minutes Read Only)
+1. Close Meeting (Stop Recording)
 
 - **Reference:** 
   - [Last Meeting - April 18th, 2024 15:00 UTC](./20240425-Meeting-Public-Agenda.md)
