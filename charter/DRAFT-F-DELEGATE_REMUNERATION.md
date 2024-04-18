@@ -8,7 +8,7 @@
 
     Changes to the compensation scheme can be decided by the Council, but only come into effect after the next two elections have been held.  As part of a strategic reorganization of the departments and tasks of the delegates, the remuneration scheme can also be changed at the beginning of the next quarter, but then requires a governance proposal and the approval of the community.
 
-### 2. ATTENDENCE
+### 2. ATTENDANCE
 
     Any Delegate who does not attend at least 2 monthly meetings of his/her department is ineligible for compensation. To count as an official department meeting a meeting has to be announced at least 72 hours in advance on Discord and entered into the events calendar. 
 
