@@ -58,6 +58,7 @@
    - Put the Community Close together
    - Giving people the ability to build anything
    - Keep things high level and not get focused on the technical execution layer
+   - Article written by Comms members: (Medium Article](https://medium.com/coinmonks/juno-ethos-and-values-68c77e96018c)
 
 1. Budget Meeting Scheduling (for next Thursday Apr 25th)
   - Next week, same time to formally propose budget and take feedback.

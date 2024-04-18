@@ -31,5 +31,6 @@
 ## New Business
 
 1. Budget Discussion
+    - **REFERENCE**: [Q2 Budget](https://docs.google.com/spreadsheets/d/1v-Vx-7zDri1zLdCgEKyF3P85YylLRJKEykcUrRcDTzM)
 
 1. Budget On-chain Proposal
