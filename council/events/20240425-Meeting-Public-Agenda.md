@@ -1,0 +1,35 @@
+# Juno Council Meeting Agenda - April 25th, 2024 15:00UTC
+
+###### tags: `Meeting` `Juno` `Council`
+
+- **Location:** #meetings https://discord.com/channels/816256689078403103/1185233414547329085
+- **Date:** April 25th, 2024 15:00 UTC
+- **Agenda**
+
+1. Open Meeting
+1. Start Recording `/join`
+1. Roll Call `1min`
+1. Review and Approve Previous Meeting Minutes `5min`
+1. Agenda Amendments `5min`
+1. Old Business `30min`
+   - Working Group updates `10m`
+1. New Business `30min`
+1. Close Meeting (Agenda/Minutes Read Only)
+
+- **Reference:** 
+  - [Last Meeting - April 18th, 2024 15:00 UTC](./20240425-Meeting-Public-Agenda.md)
+  - [Next Meeting - May 2nd, 2024 15:00 UTC]()
+
+# Itemized Agenda
+
+## Old Business
+
+1. Approve Previous Meeting Minutes:
+    - [April 4th, 2024](./20240404-Meeting-Public-Minutes.md)
+    - [April 18th, 2024](./20240425-Meeting-Public-Agenda.md)
+
+## New Business
+
+1. Budget Discussion
+
+1. Budget On-chain Proposal

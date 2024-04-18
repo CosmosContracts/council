@@ -11,7 +11,7 @@
 - **Recording:** [Craig Audio Recording]()
 
 1. Approve Previous Minutes
-    - [ ] [April 9th, 2024]()
+    - [ ] [April 4th, 2024]()
     - Pushed to Next Meeting
 
 2. Working Group Updates

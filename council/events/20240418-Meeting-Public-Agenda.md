@@ -1,4 +1,4 @@
-# Juno Council Meeting Agenda - April 18th, 2024
+# Juno Council Meeting Agenda - April 18th, 2024 15:00UTC
 
 ###### tags: `Meeting` `Juno` `Council`
 
