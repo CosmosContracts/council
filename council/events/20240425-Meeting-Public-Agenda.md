@@ -11,9 +11,8 @@
 1. Roll Call `1min`
 1. Review and Approve Previous Meeting Minutes `5min`
 1. Agenda Amendments `5min`
-1. Old Business `30min`
-   - Working Group updates `10m`
-1. New Business `30min`
+1. Agenda Items + Discussion `30 minutes`
+1. Public Comment: `20 minutes`
 1. Close Meeting (Agenda/Minutes Read Only)
 
 - **Reference:** 
