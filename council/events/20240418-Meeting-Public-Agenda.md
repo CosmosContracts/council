@@ -1,4 +1,5 @@
-# Juno Council Meeting Agenda - April 18th, 2024
+# Juno Council Meeting Agenda - April 18th, 2024 15:00UTC
+===
 
 ###### tags: `Meeting` `Juno` `Council`
 
@@ -17,7 +18,7 @@
 1. Close Meeting (Agenda/Minutes Read Only)
 
 - **Reference:** 
-  - [Last Meeting - April 4th, 2024 15:00 UTC](https://hackmd.io/HORzqTy6RD2bREvGHSD_Pg)
+  - [Last Meeting - April 4th, 2024 15:00 UTC](./20240404-Meeting-Public-Minutes.md)
   - [Next Meeting - May 2nd, 2024 15:00 UTC]()
 
 # Itemized Agenda
@@ -52,6 +53,8 @@
 1. New Metric Meeting
     * https://www.youtube.com/watch?v=anwIUBmXyLg
     * Presentation after Council Meeting 
+
+## New Business
 
 1. Unsolicitied Airdrop Policy
 
