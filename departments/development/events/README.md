@@ -28,11 +28,10 @@ Event `SUB_TYPE`:
 
 Every file created or stored inside each type folder should follow the naming convention below:
 
-[DATE]-[TYPE]-[SUB_TYPE]-[DOC_TYPE/COMMENT]
+[DATE]-[SUB_TYPE]-[DOC_TYPE/COMMENT]
 
-Example: "20240412_Meeting_Internal_Minutes.md"
+Example: "20240412_Internal_Minutes.md"
 
 - `DATE`: date of the event in the format YYYYMMDD
-- `TYPE`: type of the event, such as `Meeting` or `Presentation`
 - `SUB_TYPE`: sub type of the event, such as `Public/Stage` or `Private`
 - `DOC_TYPE/COMMENT`: document type or comment, such as `Agenda` or `Video`.
