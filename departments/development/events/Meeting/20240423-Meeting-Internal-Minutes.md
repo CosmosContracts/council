@@ -30,11 +30,15 @@
       - [ ] @kopeboy to put up a proposal to withdraw from
     - 🤝 **Github & Asset Ownership** 🤝
        - @rayraspberry contacted @blockcreators on telegram to have a conversation about the ownership of the Github
+       - Asset Management temporary file:
     - 🤝 **Critical Infrastructure** 🤝
+      - One response for dApp
+      - No response for the other 3 RFPs
+      - @dat-andre to resubmit the 3 RFPs that received no responses
     - 🤝 **Budget & Treasury** 🤝
     - 🤝 **Department Policies** 🤝
     - 🤝 **Conflict of Interest Policy** 🤝
-    - 🤝 **Development Relations** 🤝
+    - 🤝 **Development Relations / Asset Management** 🤝
     - 🤝 **Internal Tooling** 🤝
 
 1. Review responses to Dev Department Contact Form
