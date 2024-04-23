@@ -8,16 +8,17 @@ Following on our Proposal [`[proposal:id]`](`[proposal:link]`) to unstake the JU
 
 To send it back to our treasury, we must execute the `withdraw_canceled_payment` [function](`[contract:verified_offchain_code_repo:url]#L[function:line_number]`).
 
-You can read the full explanation [here](`[this_procedure_doc:url]`).
+You can read the full explanation `[here]([this_procedure_doc:url#explanation])`.
 
 ## On-chain Execution messages
 
-// This is using DAODAO UI notation, #TODO generalized version
+(This is using DAODAO UI notation, #TODO generalized version)
+
 Execute smart contract:
 
 - `[contract]`:
 
-  ```
+  ```language=json
   {
     "withdraw_canceled_payment": {
       "amount": "[contract:info:data:status:canceled:owner_withdrawable:value]"
@@ -33,19 +34,27 @@ You may notice that the balance on the `[contract:address]` account is higher. T
 
 **balance - owner_withdrawable = distributable = vested - claimed**
 
-<details><summary>Distributable amount</summary>
+<details>
+<summary>Distributable amount</summary>
+
 This is attributable to the vestee, in case he hasn't withdrawn yet:
+
 - query: `junod query wasm contract-state smart [contract:address] '{"distributable": {}}'`
 - response: `data: "[integer_amount_as_string]"`
 
 This can be distributed by any account with the permissionless `distribute` execution message.
+
 </details>
 
-<details><summary>Contract address balance</summary>
+<details>
+<summary>Contract address balance</summary>
+
 You can get the available amount with the bank query like on any account:
+
 - Query: `junod q bank balances [contract:address]`
 - Response:
-  ```
+
+  ```language=bash
   balances:
   - amount: "[integer_as_string]"
     denom: [token:id]
@@ -55,13 +64,18 @@ You can get the available amount with the bank query like on any account:
   ```
 
 Example `[token:id]`'s are: `ujuno` (native coin label), `factory/[contract:address]/[token:label]` (token-factory token).
+
 </details>
 
-<details><summary>Owner withdrawable, vested, claimed amounts</summary>
+<details>
+<summary>Owner withdrawable, vested, claimed amounts</summary>
+
 You can get these with a single wasm smart query, on the contract's `info` method:
+
 - Query: `junod q wasm contract-state smart [contract:address] '{"info":{}}'`
 - Response (example with native coin):
-  ```
+
+  ```language=bash
   data:
     claimed: "[integer_as_string]"
     denom:
@@ -78,6 +92,7 @@ You can get these with a single wasm smart query, on the contract's `info` metho
       constant:
         "y": "[integer_as_string]"
   ```
+
 </details>
 
 Any potential small difference is attributable to ..#TODO.
@@ -87,7 +102,7 @@ Before withdrawing, you could also verify that the `owner` of the contract is (s
 - Query: `junod query wasm contract-state smart [contract:address] '{"ownership": {}}'`
 - Response:
 
-  ```
+  ```language=bash
   data:
     owner: [owner:address]
   ```
