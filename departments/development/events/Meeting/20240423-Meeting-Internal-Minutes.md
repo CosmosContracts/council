@@ -19,7 +19,7 @@
         - Discussion on the minutes submission and approval process
     
 2. Working Group Updates
-    - 🤝 **Vesting** 🤝
+    - 🤝 **Vesting** 🤝 @kopeboy
       - Procedure created in Github
       - @JakeHartnell to review and approve
         - The withdrawal amount is not shown in the UI
@@ -27,68 +27,81 @@
       - junod query wasm contract-state smart [contract:address] '{"ownership": {}}'
       - Wynd Vesting Contract Owner - `juno1a4pjj5l4szl7kq8u4h07se3675fsqcfh66vtks7hlckgz2kpaq0ssn309f`
       - @kopeboy would like @JakeHartnell to be more active in the Vesting reclaimation process
-      - [ ] @kopeboy to put up a proposal to withdraw from
-    - 🤝 **Github & Asset Ownership** 🤝
+      - Vesting Proposal for a vote: [DAODAO Proposal A21](https://daodao.zone/dao/juno1gyjl26rnqqyk6cuh6nqtvx8t885jgqagusvpqpvtgaygcjg2wjdqz0rzle/proposals/A21)
+    - 🤝 **Github & ~~Asset Ownership~~** 🤝 @kopeboy + @rayraspberry
        - @rayraspberry contacted @blockcreators on telegram to have a conversation about the ownership of the Github
-       - Asset Management temporary file:
-    - 🤝 **Critical Infrastructure** 🤝
+       - Asset Management temporary file: [hackMD](https://hackmd.io/xaRvq0BgT3yJ6cUhnhg6zg)
+    - 🤝 **Critical Infrastructure** 🤝 @Dat-Andre
       - One response for dApp
       - No response for the other 3 RFPs
       - @dat-andre to resubmit the 3 RFPs that received no responses
       - @poroburu bring more engagement to Validators
-    - 🤝 **Budget & Treasury** 🤝
+    - 🤝 **Budget & Treasury** 🤝 @rayraspberry
       - Council Meeting on Budget tomorrow, April 24th, 2024
       - Budget Discussion:
         - #budget-planning
         - Discussion about Highlander 309 in the Comms budget
-    - 🤝 **Department Policies** 🤝
+    - 🤝 **Department Policies** 🤝 [closed]
       - put up templates for the department in Github
       - @rayraspberry to create the templates for outstanding policies
       - close this working group
-    - 🤝 **Conflict of Interest Policy** 🤝
+    - 🤝 **Conflict of Interest Policy** 🤝 @kopeboy
       - @kopeboy will put Policy on Council Github
       - next week bring up at the Council Meeting
       - Cristiano suggested @kopeboy work with Macks from operations
-    - 🤝 **Development Relations / Asset Management** 🤝
+    - 🤝 **Development Relations** 🤝 @poroburu
+      - No Update
+    - 🤝 **Asset Management** 🤝 @poroburu
+      - **RESOURCE**: Temporary File: [hackMD](https://hackmd.io/xaRvq0BgT3yJ6cUhnhg6zg)
+      - No Update
+      - Andre Offered to Help
     - 🤝 **Internal Tooling** 🤝
+      - RFP and Task Management
+      - @rayraspberry : should be integrated into existing UX for JunoNetwork.io
+      - @poroburu - A simple portal for users - dashboard for Council metrics
+      - RFP integration into Website
 
 1. Review responses to Dev Department Contact Form
+ - No new messages
 
 1. Darkside Podcast Response
+  - Email sent yesterday to Scott
+
+1. Juno.tools
+  - @rayraspberry Juno Tools RFP
+  - @Dat-Andre work on Asset Management
+  - @rayraspberry - Multiple Juno domains and web services shouldn't be running their own hosting services for each
 
 1. New Metric Public Presentation
+  - 
 
+1. Juno.Tools
+   - **ACTION**
+     - [ ] Create RFP to Maintain Juno.Tools
 
+1. Juno Havling Website
+  - @kopeboy has the source code for this
+  - @Dat-Andre insert the calculation for the halving in the Documentation Repo
 
-1. #cross-department
-  1. Interchain-Test update request
+1. New Metric Meeting Review
+  - @Dat-Andre would be good to understand the project and make other people aware of the project existance
 
-1. Council Meeting Agenda
-  1. Budget Submission Propsal for Q2
-  1. Progress reports on Working Groups: 
-    1. Abstract SDK
-    1. Policy
-    1. Asset Management
-    1. Security
-    1. Treasury / Reserve
-1. Abstract Money Market dApp would need to be developed
-  1. Discussion on the dApp and that it needs to be created
-  1. Money Market dApp and waiting for feedback from Abstract
-  1. Private TG Group
-  1. @kopeboy:
-      1. Discussion with Abstract dev in private has strategic relevance, @kopeboy would like to have access to the group or published updates.
-      1. Define a strategy within the Council; start focusing on product (appchain) development and end-users who can sustain the network by investing.
-  1. @poroburu: networks like Juno require a vision and a strategy
-    1. challenge all delegates to create a vision station
-    1. Poroburu Vision: Juno acting as a middleware (IBC) for all chains + creating rails for DAOs
-  1. Restake DAO 
-    1. Unsolicited Token Gifts should not be utilized
-    1. Setting the Standard Going Forward
-1. RFP02 - Blockchain Maintenance Engineer
-  1. qualified 2 candidates
-  1. Communication Draft
-    1. sent from dev.dept email
-1. Create `templates` folder in Department for Correspondence
-  1. @kopeboy to create the folder
-1. Create and Store Correspondence for RFP02 in the RFP folder
-  1. @rayraspberry to create the folder
+1. Support RFP
+  - Private Meeting to Commense after this meeting
+  - Public Meeting Posted
+
+1. Contact Approved Submissions for Blockchain Engineer RFP
+  - @rayraspberry to put up template for review on Council Github
+  - @kopeboy will send out messages to individual parties
+  
+1. Github Dev Department Structure Organization
+   - Will resolve in the Github Issue
+    - Public/Stage to Public
+    - Remove OTHER Categories
+
+1. Council Meeting Budget Meeting - April 24th, 2024 2:00 PM UTC
+ - @rayraspberry previously discussed in this meeting
+ - Council Meeting Planning for tomorrow
+
+1. Council Meeting Planning for Thursday May 2nd, 2024 [name=Ray Raspberry]
+
