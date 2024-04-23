@@ -4,9 +4,11 @@
 
 Following on our Proposal [`[proposal:id]`](`[proposal:link]`) to unstake the JUNO in our canceled vesting contracts, each contract has now a liquid (unbonded) balance that we can withdraw:
 
-- `[contract:label]` (optional: `[contract:recipient:human_friendly_label]`), `[contract:address]`: `[contract:address:balance]`
+- `[contract:label]` (optional: `[contract:recipient:human_friendly_label]`), `[contract:address]`: `[contract:owner_withdrawable]`
 
-To send it back to our treasury, we must execute its `withdraw_canceled_payment` function, that according to the [contract code](`[contract:verified_offchain_code_repo:url]#L[function:line_number_anchor]`), should send the optional requested amount, or all that's available, to the owner (our account).
+To send it back to our treasury, we must execute the `withdraw_canceled_payment` [function](`[contract:verified_offchain_code_repo:url]#L[function:line_number]`).
+
+You can read the full explanation [here](`[this_procedure_doc:url]`).
 
 ## On-chain Execution messages
 
@@ -25,7 +27,19 @@ Execute smart contract:
 
 ## Explanation
 
+The amount to withdraw is optional; to withdraw everything just execute `{"withdraw_canceled_payment":{}}`.
+
+You may notice that the balance on the `[contract:address]` account is higher. That may be because there is still a `distributable` amount:
+
 **balance - owner_withdrawable = distributable = vested - claimed**
+
+<details><summary>Distributable amount</summary>
+This is attributable to the vestee, in case he hasn't withdrawn yet:
+- query: `junod query wasm contract-state smart [contract:address] '{"distributable": {}}'`
+- response: `data: "[integer_amount_as_string]"`
+
+This can be distributed by any account with the permissionless `distribute` execution message.
+</details>
 
 <details><summary>Contract address balance</summary>
 You can get the available amount with the bank query like on any account:
@@ -44,7 +58,7 @@ Example `[token:id]`'s are: `ujuno` (native coin label), `factory/[contract:addr
 </details>
 
 <details><summary>Owner withdrawable, vested, claimed amounts</summary>
-You can get those by query the contract info:
+You can get these with a single wasm smart query, on the contract's `info` method:
 - Query: `junod q wasm contract-state smart [contract:address] '{"info":{}}'`
 - Response (example with native coin):
   ```
@@ -64,14 +78,6 @@ You can get those by query the contract info:
       constant:
         "y": "[integer_as_string]"
   ```
-</details>
-
-<details><summary>Distributable amount</summary>
-Finally, there could be some `distributable` amount (vested - claimed) attributable to the vestee, in case he hasn't withdrawn yet:
-- query: `junod query wasm contract-state smart [contract:address] '{"distributable": {}}'`
-- response: `data: "[integer_amount_as_string]"`
-
-This can be distributed by any account with the permissionless `distribute` execution message.
 </details>
 
 Any potential small difference is attributable to ..#TODO.
