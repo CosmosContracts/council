@@ -11,7 +11,7 @@
 - **Chair:** @Dat-Andre
 - **Secretary:** @rayraspberry
 
-- **Recording:**
+- **Recording:** [Craig Recording](https://craig.horse/rec/M68BHHeeT2XJ?key=aeXyWQ)
 
 1. Approve Previous Minutes
     - [x] [April 23rd, 2024](./20240409-Meeting-Internal-Minutes.md)
