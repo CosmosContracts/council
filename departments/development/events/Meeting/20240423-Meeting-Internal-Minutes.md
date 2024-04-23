@@ -35,9 +35,20 @@
       - One response for dApp
       - No response for the other 3 RFPs
       - @dat-andre to resubmit the 3 RFPs that received no responses
+      - @poroburu bring more engagement to Validators
     - 🤝 **Budget & Treasury** 🤝
+      - Council Meeting on Budget tomorrow, April 24th, 2024
+      - Budget Discussion:
+        - #budget-planning
+        - Discussion about Highlander 309 in the Comms budget
     - 🤝 **Department Policies** 🤝
+      - put up templates for the department in Github
+      - @rayraspberry to create the templates for outstanding policies
+      - close this working group
     - 🤝 **Conflict of Interest Policy** 🤝
+      - @kopeboy will put Policy on Council Github
+      - next week bring up at the Council Meeting
+      - Cristiano suggested @kopeboy work with Macks from operations
     - 🤝 **Development Relations / Asset Management** 🤝
     - 🤝 **Internal Tooling** 🤝
 
