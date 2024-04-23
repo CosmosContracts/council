@@ -1,9 +1,10 @@
-# Juno Council Meeting Agenda - April 25th, 2024 15:00UTC
+# Juno Council Meeting Agenda - April 24th, 2024
+## Special Budget Approval Meeting
 
 ###### tags: `Meeting` `Juno` `Council`
 
 - **Location:** #meetings https://discord.com/channels/816256689078403103/1185233414547329085
-- **Date:** April 25th, 2024 15:00 UTC
+- **Date:** April 24th, 2024 14:00 UTC
 - **Agenda**
 
 1. Open Meeting
