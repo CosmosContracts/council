@@ -133,7 +133,7 @@
 
 ## New Business
 
-1. Council Meeting Planning for Thursday April 27th, 2024 [name=Ray Raspberry]
+1. Council Meeting Planning for ~~Thursday April 27th~~ Wednesday April 24th, 2024 [name=Ray Raspberry]
 1. New Metric Meeting Review
 1. Support RFP
 1. Contact Approved Submissions for Blockchain Engineer RFP
