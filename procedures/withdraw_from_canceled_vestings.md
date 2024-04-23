@@ -12,11 +12,11 @@ You can read the full explanation `[here]([this_procedure_doc:url#explanation])`
 
 ## On-chain Execution messages
 
-(This is using DAODAO UI notation, #TODO generalized version)
+(This is using DAODAO UI notation, #TODO generalized msg version)
 
 Execute smart contract:
 
-- `[contract]`:
+- `[contract:address]`:
 
   ```language=json
   {
