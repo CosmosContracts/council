@@ -34,3 +34,9 @@
     - **REFERENCE**: [Q2 Budget](https://docs.google.com/spreadsheets/d/1v-Vx-7zDri1zLdCgEKyF3P85YylLRJKEykcUrRcDTzM)
 
 1. Budget On-chain Proposal
+
+## Other Business
+
+1. Website - RFP Dashboard
+
+1. Asset Management
