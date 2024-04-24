@@ -20,14 +20,14 @@
     
 2. Working Group Updates
     - 🤝 **Vesting** 🤝 @kopeboy
-      - Procedure created in Github
+      - Created generalized [procedure on Github](https://github.com/CosmosContracts/council/blob/7a64afce765054919062927916927e5bc2565f6a/procedures/withdraw_from_canceled_vestings.md) and recap with the specific data on [HackMD](https://hackmd.io/@kopeboy/r1YkK-b-A).
       - @JakeHartnell to review and approve
-        - The withdrawal amount is not shown in the UI
-        - the balance of the contract is the withdrawable from the owner and the stake
-      - junod query wasm contract-state smart [contract:address] '{"ownership": {}}'
-      - Wynd Vesting Contract Owner - `juno1a4pjj5l4szl7kq8u4h07se3675fsqcfh66vtks7hlckgz2kpaq0ssn309f`
-      - @kopeboy would like @JakeHartnell to be more active in the Vesting reclaimation process
-      - Vesting Proposal for a vote: [DAODAO Proposal A21](https://daodao.zone/dao/juno1gyjl26rnqqyk6cuh6nqtvx8t885jgqagusvpqpvtgaygcjg2wjdqz0rzle/proposals/A21)
+        - The withdrawal amount for the owner is not shown in the UI
+        - the balance of the contract (what was unstaked) is more than the `owner_withdrawable`, because there is some `distributable` (still going to the vestee, right?)
+        - Transferred vesting contracts are not updated automatically on daodao.zone (Max's vesting is still showing in the Dev Dept & not on Comms Dept).
+      - Wynd Vesting Contract Owner is `juno1a4pjj5l4szl7kq8u4h07se3675fsqcfh66vtks7hlckgz2kpaq0ssn309f`, ie. not Dev Dept. (check with `junod query wasm contract-state smart juno1a4pjj5l4szl7kq8u4h07se3675fsqcfh66vtks7hlckgz2kpaq0ssn309f '{"ownership": {}}'`)
+      - @kopeboy would like @JakeHartnell to be more active on DA0DA0 contracts' issues, but aknowledges he can ask in their Discord server.
+      - Vesting Proposal up for vote: [DAODAO Proposal A21](https://daodao.zone/dao/juno1gyjl26rnqqyk6cuh6nqtvx8t885jgqagusvpqpvtgaygcjg2wjdqz0rzle/proposals/A21)
     - 🤝 **Github & ~~Asset Ownership~~** 🤝 @kopeboy + @rayraspberry
        - @rayraspberry contacted @blockcreators on telegram to have a conversation about the ownership of the Github
        - Asset Management temporary file: [hackMD](https://hackmd.io/xaRvq0BgT3yJ6cUhnhg6zg)
