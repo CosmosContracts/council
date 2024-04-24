@@ -40,3 +40,4 @@
 1. Website - RFP Dashboard
 
 1. Asset Management
+- **REFERENCE**: [HackMD Document](https://hackmd.io/xaRvq0BgT3yJ6cUhnhg6zg)
