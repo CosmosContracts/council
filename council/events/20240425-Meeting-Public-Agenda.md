@@ -17,16 +17,16 @@
 1. Close Meeting (Stop Recording)
 
 - **Reference:** 
-  - [Last Meeting - April 18th, 2024 15:00 UTC](./20240425-Meeting-Public-Agenda.md)
-  - [Next Meeting - May 2nd, 2024 15:00 UTC]()
+  - [Last Meeting - April 18th, 2024 15:00 UTC](./20240418-Meeting-Public-Minutes.md)
+  - [Next Meeting - May 2nd, 2024 15:00 UTC](./20240502-Meeting-Public-Minutes.md)
 
 # Itemized Agenda
 
 ## Old Business
 
 1. Approve Previous Meeting Minutes:
-    - [April 4th, 2024](./20240404-Meeting-Public-Minutes.md)
-    - [April 18th, 2024](./20240425-Meeting-Public-Agenda.md)
+    - [ ] [April 4th, 2024](./20240404-Meeting-Public-Minutes.md)
+    - [ ] [April 18th, 2024](./20240418-Meeting-Public-Minutes.md)
 
 ## New Business
 
