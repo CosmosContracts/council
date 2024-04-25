@@ -6,14 +6,12 @@ Event `TYPE`:
 
 - `Meeting`
 - `Presentation`
-- `Other`
 
 Event `SUB_TYPE`:
 
-- `Public/Stage`
+- `Public`
 - `Internal`
 - `Private`
-- `Other`
 
 `DOC_TYPE/COMMENT`:
 
@@ -22,7 +20,6 @@ Event `SUB_TYPE`:
 - `Minutes`
 - `Audio`
 - `Video`
-- `Other`
 
 ## Events file naming convention
 
@@ -33,5 +30,5 @@ Every file created or stored inside each type folder should follow the naming co
 Example: "20240412_Internal_Minutes.md"
 
 - `DATE`: date of the event in the format YYYYMMDD
-- `SUB_TYPE`: sub type of the event, such as `Public/Stage` or `Private`
+- `SUB_TYPE`: sub type of the event, such as `Public` or `Private`
 - `DOC_TYPE/COMMENT`: document type or comment, such as `Agenda` or `Video`.
