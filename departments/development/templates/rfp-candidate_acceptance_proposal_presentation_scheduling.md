@@ -8,6 +8,8 @@ We were highly impressed with your qualifications and experience, and we believe
 
 To proceed, please respond to this email with a confirmation that you accept being a candidate to fulfill the [RFP Title] role with Juno Development Department. Additionally, please provide us with a date and time when you would be available to present your proposal to the Juno community. We aim to accommodate your schedule as much as possible.
 
+Be aware that if you decide to confirm your interest in fulfilling the proposed request, Juno Development Department may publish your initial proposal submission with direct contact information redacted at our discretion. 
+
 Once we receive your confirmation and preferred presentation time, we will confirm and coordinate the next steps of the process and provide you with further instructions.
 
 Thank you for your interest in joining our team at Juno. We are excited about the possibility of working with you and look forward to your response.
