@@ -34,6 +34,7 @@ Interested parties are requested to submit proposals that include the following:
 1. Overview of qualifications and relevant experience in a blockchain environment, particularly within the Juno Network or the Cosmos ecosystem.
 2. Proposed approach and methodology for fulfilling the scope of work outlined above, specifically tailored for the Juno Network.
 3. References or portfolio of previous works done to Juno Network or Cosmos ecosystem blockchain.
+4. Budget and cost breakdown, including rates for hourly or project-based compensation specific to tasks and services.
 
 ## Service Level Agreement (SLA):
 
@@ -45,7 +46,7 @@ The selected candidate(s) will be expected to adhere to a Service Level Agreemen
 
 ## Submission Guidelines:
 
-Proposals should be submitted submitted electronically to [dev.dept@juno.zone](mailto:dev.dept@juno.zone) no later than **April 22, 2024**. Please include "Juno Network Blockchain Relayers Activity Support" in the email Subject field. Late submissions will not be considered.
+Proposals should be submitted submitted electronically to [dev.dept@juno.zone](mailto:dev.dept@juno.zone) no later than **May 20, 2024**. Please include "Juno Network Blockchain Relayers Activity Support" in the email Subject field. Late submissions will not be considered.
 
 ## Evaluation Criteria:
 
