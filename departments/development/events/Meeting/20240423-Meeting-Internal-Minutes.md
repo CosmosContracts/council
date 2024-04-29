@@ -55,6 +55,34 @@
       - **RESOURCE**: Temporary File: [hackMD](https://hackmd.io/xaRvq0BgT3yJ6cUhnhg6zg)
       - No Update
       - Andre Offered to Help
+<<<<<<< HEAD
+       - Asset Management temporary file:
+    - 🤝 **Critical Infrastructure** 🤝
+      - One response for dApp
+      - No response for the other 3 RFPs
+      - @dat-andre to resubmit the 3 RFPs that received no responses
+      - @poroburu bring more engagement to Validators
+    - 🤝 **Budget & Treasury** 🤝 @rayraspberry
+      - Council Meeting on Budget tomorrow, April 24th, 2024
+      - Budget Discussion:
+        - #budget-planning
+        - Discussion about Highlander 309 in the Comms budget
+    - 🤝 **Department Policies** 🤝 [closed]
+      - put up templates for the department in Github
+      - @rayraspberry to create the templates for outstanding policies
+      - close this working group
+    - 🤝 **Conflict of Interest Policy** 🤝 @kopeboy
+      - @kopeboy will put Policy on Council Github
+      - next week bring up at the Council Meeting
+      - Cristiano suggested @kopeboy work with Macks from operations
+    - 🤝 **Development Relations** 🤝 @poroburu
+      - No Update
+    - 🤝 **Asset Management** 🤝 @poroburu
+      - **RESOURCE**: Temporary File: [hackMD](https://hackmd.io/xaRvq0BgT3yJ6cUhnhg6zg)
+      - No Update
+      - Andre Offered to Help
+=======
+>>>>>>> origin/main
     - 🤝 **Internal Tooling** 🤝
       - RFP and Task Management
       - @rayraspberry : should be integrated into existing UX for JunoNetwork.io
@@ -68,6 +96,27 @@
 1. Darkside Podcast Response
 
 - Email sent yesterday to Scott
+<<<<<<< HEAD
+
+2. Juno.tools
+
+- @rayraspberry Juno Tools RFP
+- @Dat-Andre work on Asset Management
+- @rayraspberry - Multiple Juno domains and web services shouldn't be running their own hosting services for each
+
+3. New Metric Meeting Review
+
+- @Dat-Andre would be good to understand the project and make other people aware of the project existance
+
+-
+
+1. Juno.Tools
+   - **ACTION**
+     - [ ] Create RFP to Maintain Juno.Tools
+
+1. Juno Havling Website
+
+=======
 
 1. Juno.tools
 
@@ -85,6 +134,7 @@
 
 1. Juno Havling Website
 
+>>>>>>> origin/main
 - @kopeboy has the source code for this
 - @Dat-Andre insert the calculation for the halving in the Documentation Repo
 
