@@ -4,13 +4,20 @@ The purpose of this folder is to store all the RFPs (Requests for Proposals) ini
 
 ## RFP folder naming convention
 
-The folder created for each RFP should follow the convention below::
+Each RFP should be stored in a folder named with the following convention:
 
-RFP-[RFP_TITLE]-[STATUS]
+`[SEQUENTIAL_NUMBER]-[RFP_TITLE]`
 
-Example: "RFP-Chain Upgrade Support-Open"
+Example:
+`001-Chain_Upgrade_Support`
 
+- `SEQUENTIAL_NUMBER`: A unique number assigned to each RFP in sequential order, starting from 001.
 - `RFP_TITLE`: short, clear and direct RFP title.
-- `STATUS`: Current status of the RFP
-  - **Open**: Every RFP that has been publicly released and for which the process has been initiated but not concluded.
-  - **Closed**: RFP for which the process was initiated but is currently closed. This state does not indicate whether the RFP objectives were achieved successfully or not
+
+## RFP sub-folder document structure
+
+Each RFP folder should contain the following sub-folders and files:
+
+1. `proposal_request.md`: The RFP document that outlines the project overview, scope of work, proposal requirements, and submission guidelines.
+2. `status.md`: The status document that tracks the progress of the RFP process, including proposal submission dates, review committee members, and proposal review summary.
+3. `proposals`: A sub-folder containing all proposals submitted in response to the RFP.

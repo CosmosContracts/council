@@ -55,6 +55,7 @@
       - **RESOURCE**: Temporary File: [hackMD](https://hackmd.io/xaRvq0BgT3yJ6cUhnhg6zg)
       - No Update
       - Andre Offered to Help
+<<<<<<< HEAD
        - Asset Management temporary file:
     - 🤝 **Critical Infrastructure** 🤝
       - One response for dApp
@@ -80,6 +81,8 @@
       - **RESOURCE**: Temporary File: [hackMD](https://hackmd.io/xaRvq0BgT3yJ6cUhnhg6zg)
       - No Update
       - Andre Offered to Help
+=======
+>>>>>>> origin/main
     - 🤝 **Internal Tooling** 🤝
       - RFP and Task Management
       - @rayraspberry : should be integrated into existing UX for JunoNetwork.io
@@ -93,6 +96,7 @@
 1. Darkside Podcast Response
 
 - Email sent yesterday to Scott
+<<<<<<< HEAD
 
 2. Juno.tools
 
@@ -112,6 +116,25 @@
 
 1. Juno Havling Website
 
+=======
+
+1. Juno.tools
+
+- @rayraspberry Juno Tools RFP
+- @Dat-Andre work on Asset Management
+- @rayraspberry - Multiple Juno domains and web services shouldn't be running their own hosting services for each
+
+1. New Metric Public Presentation
+
+-
+
+1. Juno.Tools
+   - **ACTION**
+     - [ ] Create RFP to Maintain Juno.Tools
+
+1. Juno Havling Website
+
+>>>>>>> origin/main
 - @kopeboy has the source code for this
 - @Dat-Andre insert the calculation for the halving in the Documentation Repo
 
