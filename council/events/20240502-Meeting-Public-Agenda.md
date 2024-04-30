@@ -30,15 +30,26 @@
 ## New Business
 
 1. Budget Discussion
-    - **REFERENCE**: [Q2 Budget](https://docs.google.com/spreadsheets/d/1v-Vx-7zDri1zLdCgEKyF3P85YylLRJKEykcUrRcDTzM)
+- **REFERENCE**: [Q2 Budget](https://docs.google.com/spreadsheets/d/1v-Vx-7zDri1zLdCgEKyF3P85YylLRJKEykcUrRcDTzM)
+- Dev Returning Treasury Funds
+- Budget On-chain Proposal
 
-1. Wynd Vesting
-  - Unstaked Vesting was sent to Core1 Treasury
-    - `juno1j6glql3xmrcnga0gytecsucq3kd88jexxamxg3yn2xnqhunyvflqr7lxx3`
+1. RFP Status
+- Administrator (operations)
+- Communications Department (council communications)
+
+1. Vesting
+- Wynd Unstaked Vesting was sent to Core1 Treasury
+  - `juno1j6glql3xmrcnga0gytecsucq3kd88jexxamxg3yn2xnqhunyvflqr7lxx3`
+- DAODAO Reinitialization Status
+  - Terms / Existing Proposal
+    - [Proposal 285](https://www.mintscan.io/juno/proposals/285)
+    - [Juno Growth Fund Cancel Withdrawal](https://daodao.zone/dao/juno1xz54y0ktew0dcm00f9vjw0p7x29pa4j5p9rwq6zerkytugzg27qs4shxnt/proposals/A38)
 
 1. GitHub Ownership
 
-1. Budget On-chain Proposal
+1. Conflict of Interest Policy
+- **REFERENCE**: [Draft Policy on Github](https://github.com/CosmosContracts/council/pull/17)
 
 1. Website - RFP Dashboard
 
