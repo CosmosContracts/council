@@ -9,7 +9,7 @@ The qualifications and experience outline in the proposal meet the requirements 
 To proceed, please respond to this email with confirmation of candiate acceptance and interest to proceed with the intention of fulfilling the [RFP Title] role with Juno Development Department. 
 Juno Development Department requires that candidates accept being considered for the position and present their proposal to the Juno community.
 So, additionally, please provide an available date and to present your proposal to the Juno community. 
-We aim to accommodate your schedule as much as possible, but any Thursday between 15:00 and 18:00 UTC is preferred.
+We aim to accommodate your schedule as much as possible with a preference for Tuesdays between 15:00 and 18:00 UTC.
 
 Be aware that if you decide to confirm your interest in fulfilling the proposed request, Juno Development Department may publish your initial proposal submission with direct contact information redacted at our discretion. 
 
