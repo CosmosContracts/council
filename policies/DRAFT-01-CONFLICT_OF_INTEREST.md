@@ -14,7 +14,7 @@
 
 ## Methodology
 
-5. COI as defined above should be disclosed by the subject member with an on-chain text proposal to his Department, titled `COI Disclosure & Acknowledgement` and listing the ID or linked brand name of entities defined above for each month or for an indefinite period: in the latter case, the COI is valid until the member is removed or posts a new COI.
+5. COI as defined above should be disclosed by the subject member with an on-chain proposal to his Department, titled `Conflict Of Interest Disclosure` or `COI Disclosure update` and listing the ID or linked brand name of entities defined above for each month or for an indefinite period: in the latter case, the COI is valid until the member is removed or posts a new COI.
 
 6. Compensations & trading volumes are compared at their single most exchanged pair or route over the last 28 days (UTC closings average price & total volume).
 
@@ -22,7 +22,7 @@
 
 7. To allow "transparency agents" to report undisclosed COI and violations of this policy, the Council must provide a publicly-accessible & free-to-submit `COI Reporting` form:
     1. its submissions should be visible only to Council members (to avoid public defamation) for at least 28 days;
-    2. the Council should set its URL as value of a `COI_Reporting` *storage item* on its DAO and link it on a post on its DAO's *Press* page.
+    2. the Council should set its URL as value of a `COI_Reporting` *storage item* on its DAO and link it on a publicly accessible & immutable content together with this policy.
 
 8. To incentivise reporters and disincentivize violations, the Council must freeze its compensation to the subject member until relevant submissions are verified, and redirect it to the reporter with a proposal that, when passed, confirms the veridicity of the report.
 
@@ -42,11 +42,11 @@
 - Council members create the "COI Reporting" form.
 - Each Department and the Council DAOs activate the DAODAO's Press widget.
 ### Activation
-- One member proposes the policy to the Council through his Department, by adding its text and the link to the COI Reporting in a Press post (which will mint an NFT to the DAO with the IPFS CID as token ID).
+- One member proposes the policy to the Council through his Department, by adding its text and the link to the COI Reporting form in a Press post (which will mint an NFT to the DAO with the IPFS CID as token ID).
 - Optionally, each department's Council Representative collects initial COI Disclosures from his department's members to fill the "Conflict Of Interest Disclosures" post on creation.
 - Each Representative (or one of each Department members) creates the "Conflict Of Interest Disclosure" Press post on its Department, in which he links the Council's policy & "COI Reporting" form.
 ### Monitoring
-- Each member updates the "Conflict Of Interest Disclosure" post by listing his current COI disclosures with a proposal to his department titled `COI Disclosure update`, with description `I hereby update my potential conflict of interest disclosures according to our [policy](URL).`
+- Each member updates the "Conflict Of Interest Disclosure" post by listing his current COI disclosures with a proposal to his department.
 - Anyone submits to the "COI Reporting" form to inform the whole Council of an undisclosed COI or a violation to the policy by a member.
 - Any Council member verifies the submission and either does nothing (false or unverifiable) or confirms it by proposing to the Council to freeze the subject member's compensation & redirect it to the reporter.
 
@@ -54,19 +54,19 @@
 
 **Title:**
 
-`Publish our Conflict Of Interest Disclosures` on Press post creation
+`Publish our Conflict Of Interest Disclosures` on Press post creation,
 
 or
 
-`COI Disclosure update` afterwards
+`COI Disclosure update` afterwards.
 
 **Description:**
 
-`This creates the post that will be updated by each member's proposal with his new COI disclosures, according to our [policy](URL).`
+`This creates the post that will be updated by each member's proposal with his new COI disclosures, according to our [policy](URL).`,
 
 or
 
-`I hereby disclose my potential conflict of interests according to our [policy](URL):`
+`I hereby update my potential conflict of interest disclosures according to our [policy](URL).`.
 
 **Action:**
 
@@ -74,7 +74,7 @@ or
 
 _Title_: `Conflict Of Interest Disclosure` (insert or select)
 
-_Description_: `This post contains or links to our official & current Conflict Of Interest (COI) Policy, COI Disclosures from our members, COI Reporting form.`
+_Description_: `This post lists our official & current Conflict Of Interest (COI) Policy, COI Disclosures from our members, and COI Reporting form.`
 
 _Content_:
 
