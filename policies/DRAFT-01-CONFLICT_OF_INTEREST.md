@@ -52,15 +52,30 @@
 
 ### On-chain proposal template
 
-**Title:** `Publish our Conflict Of Interest Disclosures` or `COI Disclosure update`
-**Description:**
-`This creates the post that will be updated by each member's proposal with his new COI disclosures, according to our [policy](URL).`
+**Title:**
+
+`Publish our Conflict Of Interest Disclosures` on Press post creation
+
 or
+
+`COI Disclosure update` afterwards
+
+**Description:**
+
+`This creates the post that will be updated by each member's proposal with his new COI disclosures, according to our [policy](URL).`
+
+or
+
 `I hereby disclose my potential conflict of interests according to our [policy](URL):`
+
 **Action:**
+
 `Create Post` or `Update Post`:
+
 _Title_: `Conflict Of Interest Disclosure` (insert or select)
+
 _Description_: `This post contains or links to our official & current Conflict Of Interest (COI) Policy, COI Disclosures from our members, COI Reporting form.`
+
 _Content_:
 
 ```
