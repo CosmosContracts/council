@@ -1,4 +1,4 @@
-# Juno Dev Dept Meeting Agenda - April 23rd, 2024
+# Juno Dev Dept Meeting Agenda - April 30th, 2024
 
 ###### tags: `Meeting` `Juno` `Development Department`
 
