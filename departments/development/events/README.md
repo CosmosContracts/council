@@ -27,7 +27,7 @@ Every file created or stored inside each type folder should follow the naming co
 
 [DATE]-[SUB_TYPE]-[DOC_TYPE/COMMENT]
 
-Example: "20240412_Internal_Minutes.md"
+Example: "20240412-Internal-Minutes.md"
 
 - `DATE`: date of the event in the format YYYYMMDD
 - `SUB_TYPE`: sub type of the event, such as `Public` or `Private`
