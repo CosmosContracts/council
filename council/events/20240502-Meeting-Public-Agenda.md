@@ -1,5 +1,4 @@
 # Juno Council Meeting Agenda - May 2nd, 2024
-## Special Budget Approval Meeting
 
 ###### tags: `Meeting` `Juno` `Council`
 
