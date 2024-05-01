@@ -2,11 +2,11 @@
 
 ## Overview
 
-We, [REDACTED NAME] and Hasan İrice, collectively bring a wealth of experience and expertise in blockchain development, particularly within the Cosmos ecosystem. With a proven track record of contributing to various projects, including Passage NFT Marketplace, StreamSwap, and CosmWasm documentation support, we are excited to submit our proposal to fulfill the role of dApp Development Support for the Juno Network.
+We, Orkun Külçe and Hasan İrice, collectively bring a wealth of experience and expertise in blockchain development, particularly within the Cosmos ecosystem. With a proven track record of contributing to various projects, including Passage NFT Marketplace, StreamSwap, and CosmWasm documentation support, we are excited to submit our proposal to fulfill the role of dApp Development Support for the Juno Network.
 
 ## Qualifications and Relevant Experience
 
-### [REDACTED NAME] ([REDACTED GITHUB & LINKEDIN LINKS])
+### Orkun Külçe ([GitHub](https://github.com/orkunkl/), [LinkedIn](https://www.linkedin.com/in/orkunkl))
 
 - Ex-CosmWasm DevRel at Confio.
 - Worked extensively on projects such as Passage NFT Marketplace and Juno Tools for tooling on Juno.
@@ -21,7 +21,7 @@ We, [REDACTED NAME] and Hasan İrice, collectively bring a wealth of experience 
 - Worked on Selenian Network startup building a Liquity like Collateralized Debt Position on Sei Network.
 - Alumni of Interchain Developer Academy Cohort 5.
 - Contributed to numerous NFT projects, including NFT Staking, Cw404 NFT Marketplace, and NFT Converter contracts.
-- Written a proof of concept Quadratic Funding contract that uses NFTs for whitelisting under the mentorship of [REDACTED NAME], this project is not deployed anywhere yet and we are aiming to deploy this project on Juno.
+- Written a proof of concept Quadratic Funding contract that uses NFTs for whitelisting under the mentorship of Orkun Külçe, this project is not deployed anywhere yet and we are aiming to deploy this project on Juno.
 
 ## Proposed Approach and Methodology
 
@@ -79,7 +79,7 @@ We propose a trial period of one month to demonstrate our capabilities and compa
 
 #### Adnan Deniz Çorlu ([GitHub](https://github.com/Ninjatosba), [LinkedIn](https://www.linkedin.com/in/adnan-deniz-%C3%A7orlu-a491bb252/)):
 - Experienced CosmWasm and backend developer, currently working at OmniFlix Network.
-- Worked on Deus Labs along with [REDACTED NAME], and contributed to numerous projects.
+- Worked on Deus Labs along with Orkun, and contributed to numerous projects.
 - Maintainer of the juno.tools
 - Stream Swap token distribution design, implementation, testing, and project
 management.
