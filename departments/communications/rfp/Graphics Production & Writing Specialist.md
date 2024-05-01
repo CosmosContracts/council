@@ -41,7 +41,7 @@ The selected candidate(s) will be expected to adhere to a Service Level Agreemen
   - Regular time window for reporting updates on progress.
 
 ### Submission Guidelines
-Proposals must be submitted electronically to `comms.dept@juno.zone` by `13th of May, 2024`. Please include "Graphics Production & Writing Specialist for Juno Communications" in the email subject field. Proposals received after the deadline will not be considered.
+Proposals must be submitted electronically to `comms.dept@juno.zone` by `15th of May, 2024`. Please include "Graphics Production & Writing Specialist for Juno Communications" in the email subject field. Proposals received after the deadline will not be considered.
 
 ### Evaluation Criteria
 Proposals will be evaluated based on:
