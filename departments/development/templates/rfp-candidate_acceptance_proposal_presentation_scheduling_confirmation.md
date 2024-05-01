@@ -4,7 +4,7 @@ Thank you for your availability [Candidate's Name].
 
 We are writing to confirm your public proposal presentation on [Date & time in local + UTC timezone] 
 
-The presentation will held on Juno's Discord server in the #stage-meetings channel: https://discord.com/channels/816256689078403103/1195704025664978966
+The presentation will be held on Juno's Discord server in the #stage-meetings channel: https://discord.com/channels/816256689078403103/1195704025664978966
 
 The 45 minute event agenda is planned as follows:
  
