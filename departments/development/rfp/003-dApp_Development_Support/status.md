@@ -10,15 +10,15 @@
 
 ### Proposal Review Committee Members:
 
-    - [ ] @kopeboy
+    - [x] @kopeboy
     - [ ] @poroburu
-    - [ ] @Dat-Andre
-    - [ ] @rayraspberry
+    - [x] @Dat-Andre
+    - [x] @rayraspberry
 
 ### Proposal Review Summary:
 
-    - [ ] Submissions Reviewed
-    - [ ] Shortlist of Candidates Selected
-    - [ ] Candidates Contacted by Review Committee
-    - [ ] Candidates Selected for Public Proposal Presentation
+    - [x] Submissions Reviewed
+    - [x] Shortlist of Candidates Selected
+    - [x] Candidates Contacted by Review Committee
+    - [x] Candidates Selected for Public Proposal Presentation
     - [ ] Winning Bid Selected
