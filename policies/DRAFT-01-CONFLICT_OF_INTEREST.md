@@ -121,7 +121,7 @@ This should not discourage participation in the Council, but only provide honest
 
 ## Simulations of policy application
 
-1. **DAO-JUNO token swap**
+1. **DAO-JUNO token swap**:
 The swap was approved by the community with [Juno Gov Prop#285](https://www.mintscan.io/juno/proposals/285). The funds were sent to the Juno Growth Fund (JGF), which used them to create a vesting payment to DA0DA0 with [Prop#A15](https://daodao.zone/dao/juno1xz54y0ktew0dcm00f9vjw0p7x29pa4j5p9rwq6zerkytugzg27qs4shxnt/proposals/A15). Since JGF isn't a SubDAO of a Council Department, this agreement wouldn't be subject to COI. **What if JGF was a SubDAO of a Council Department?**
     - If Rarma, the proposer, had COI with DA0DA0, he should have disclosed it in propA15 and abstained. The vote would have reached the quorum and passed anyway.
     - If at least 50% of members of JGF had COI with DA0DA0, the vote shouldn't have passed, and the vesting payment shouldn't have started. Otherwise, this could lead the Council or Community (with a Juno Gov Prop) to use the COI policy as a valid argument to stop the vesting and remove the members with COI that activated it.
@@ -130,17 +130,17 @@ The swap was approved by the community with [Juno Gov Prop#285](https://www.mint
         - the JUNO equivalent vested last month & going to members with COI should be sent to the "transparency reporter"
         - the remaining vesting could restart with a new proposal following COI policy
 
-2. **DEX RFP**
+2. **DEX RFP**:
 A Request For Proposal (RFP) about a comunity-owned DEX on Juno was [published](https://x.com/JunoNetwork/status/1761029221378371784). 
     > Ops department wants to preselect the team with the best proposal (based on price-performance ratio) and then wants to seek approval from the community to get funding for this grant.
 
     If the Operations Department will pay the selected team directly, their members could be subject to this COI policy. If they have ownership or governance rights of the receiving entity, they should disclose it as in [Methodology](#Methodology) & abstain from relevant spend proposals.
 
-3. **Delegation program**
+3. **Delegation program**:
 The Operations Department might delegate [~6M JUNO](https://hackmd.io/@G2q75faESMyRkexdnhUCpA/B1NPVxxRh#Existing-Treasuries-amp-SubDAOs) through its [Delegations SubDAO](https://daodao.zone/dao/juno1mjsgk02jyn72jm2x7fgw72uu9wj7xy0v6pnuj2jd3aq7rgeqg5qq4dnhes/subdaos). According to this policy (1.2), an Ops. Dep. member would be subject to COI if he has ownership or governance rights in a Validator receiving a delegation from the SubDAO.
 The COI member should abstain from voting on such proposals. If a majority is unable to form (because of COI on ≥50% of members), such proposals could be voted on the Council or Juno Governance (by the community at large), leaving the Delegation SubDAO only the duty of providing the rationale and information to suggest such delegations.
 
-4. **Hypothetical collusion between members**
+4. **Hypothetical collusion between members**:
 TODO for a future version because it's not simple to write a rule on this that doesn't add significant liabilities to all Council members.
 For example, this could be a starting point:
     > Collusion: in case a Department’s or its SubDAOs’ proposal creates a new COI (which is not already noted on the proposal’s text) to another member, proposer & subject must both vote ABSTAIN, and the subject must disclose his COI before the proposal's veto lock expires.
