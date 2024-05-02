@@ -22,3 +22,11 @@
     - [x] Candidates Contacted by Review Committee
     - [x] Candidates Selected for Public Proposal Presentation
     - [ ] Winning Bid Selected
+
+### Proposal Presentation
+#### May 2nd, 2024 16:00 UTC
+- Location: Discord #stage channel
+- Presenter: Submission 1
+    - [Markdown](./submission_1.md)
+    - [PDF](./submission_1.pdf)
+    - [Audio Recording](https://craig.horse/rec/T82UKplhSD6W?key=TL4i0Q)
