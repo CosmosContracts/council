@@ -32,7 +32,8 @@
 - **REFERENCE**: [Q2 Budget](https://docs.google.com/spreadsheets/d/1v-Vx-7zDri1zLdCgEKyF3P85YylLRJKEykcUrRcDTzM)
 - Dev Returning Treasury Funds
 - Budget On-chain Proposal
-
+- delegate compensation Q1: who is eligible for it and can we pay it out now? Council should come to a conclusion (comms isn't doing any meetings at all. Do you still want to pay out the compensation?).
+- dev department should approve / deny kintsugi dex proposal
 1. RFP Status
 - Administrator (operations)
 - Communications Department (council communications)
