@@ -141,21 +141,22 @@ The Operations Department might delegate [~6M JUNO](https://hackmd.io/@G2q75faES
 The COI member should abstain from voting on such proposals. If a majority is unable to form (because of COI on ≥50% of members), such proposals could be voted on the Council or Juno Governance (by the community at large), leaving the Delegation SubDAO only the duty of providing the rationale and information to suggest such delegations.
 
 4. **Hypothetical collusion between members**
+
 TODO for a future version because it's not simple to write a rule on this that doesn't add significant liabilities to all Council members.
 
-    For example, here's a point I was trying to add:
+For example, this could be a starting point:
     > Collusion: in case a Department’s or its SubDAOs’ proposal creates a new COI (which is not already noted on the proposal’s text) to another member, proposer & subject must both vote ABSTAIN, and the subject must disclose his COI before the proposal's veto lock expires.
 
 
 ## Relevant reads
 
-[A comparative analysis of financial disclosure obligations on members of parliaments:](https://www.europarl.europa.eu/RegData/etudes/STUD/2023/747911/EPRS_STU(2023)747911_EN.pdf)
+[A comparative analysis of financial disclosure obligations on members of parliaments:](https://www.europarl.europa.eu/RegData/etudes/STUD/2023/747911/EPRS_STU(2023)747911_EN.pdf) (European Union)
 > 1. all EU Member States currently impose financial disclosure obligations on the members of their national parliaments
 > 2. all Member States require them to disclose that information shortly after taking up their duties and to update it either at regular intervals or when the situation has changed
 > 3. 19 out of 27 Member States ensure the declaration(s) provided by members of parliament are made public through unrestricted access via the internet. A few have opted for a different solution, providing access to declarations only on request, or restricting access to relevant parts of the declarations to competent national authorities. 
 
 
-[Criminal conflict of interest laws:](https://www.oge.gov/web/oge.nsf/0/7646D1C6ECAE9863852585B6005A1A20/$FILE/Criminal%20Conflicts%20of%20Interest%20508.pdf)
+[Criminal conflict of interest laws:](https://www.oge.gov/web/oge.nsf/0/7646D1C6ECAE9863852585B6005A1A20/$FILE/Criminal%20Conflicts%20of%20Interest%20508.pdf) (United States of America)
 
 > 1. You are prohibited from working on Government matters in which you, your spouse or minor child, or certain others have a financial interest. 
 > 2. You may not be paid by someone other than the United States for doing your Government duties.
