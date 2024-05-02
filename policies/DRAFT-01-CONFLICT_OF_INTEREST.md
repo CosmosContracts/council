@@ -21,7 +21,7 @@
 ## Monitoring & Consequences
 
 7. To allow "transparency agents" to report undisclosed COI and violations of this policy, the Council must provide a publicly-accessible & free-to-submit `COI Reporting` form:
-    1. its submissions should be visible only to Council members (to avoid public defamation) for at least 28 days;
+    1. its submissions should be visible only to Council members (to avoid public defamation) for 28 days (during which public remedy actions might be taken), and to the public afterwards;
     2. the Council should set its URL as value of a `COI_Reporting` *storage item* on its DAO and link it on a publicly accessible & immutable content together with this policy.
 
 8. To incentivise reporters and disincentivize violations, the Council must freeze its compensation to the subject member until relevant submissions are verified, and redirect it to the reporter with a proposal that, when passed, confirms the veridicity of the report.
@@ -39,7 +39,7 @@
 ## Implementation procedure, example 1
 
 ### Pre-requisites
-- Council members create the "COI Reporting" form.
+- Council members create the ["COI Reporting" form](#coi-reporting-form).
 - Each Department and the Council DAOs activate the DAODAO's Press widget.
 ### Activation
 - One member proposes the policy to the Council through his Department, by adding its text and the link to the COI Reporting form in a Press post (which will mint an NFT to the DAO with the IPFS CID as token ID).
@@ -97,11 +97,19 @@ This DAO is a member of the Juno Council and adheres to its official [COI policy
 After having read the policy and the disclosures above, please report any violation or undisclosed COI from our [members](https://daodao.zone/dao/[dao:address]/members) with [this form](coi_reporting:form:url). Submissions will be visible only to the Council's members until they are verified, published & rewarded with an on-chain proposal to the Council.
 ```
 
-## Implementation procedure, example 2
+### COI Reporting Form
+The form used to collect reports on violations or undisclosed COI shouldn't be managed by Council members, since they are the same people subject of the submitted reports. Specifically, submitted reports should not be editable nor deletable by Council members, and should automatically be made public after 28 days from the submission in case no action was taken by the members.
 
-An alternative implementation (without using the DAODAO UI's Press feature) would be to directly (manually) upload the policy and each member's disclosures on IPFS and add their Content IDs (CID) to either the corresponding proposals' text or as storage items on each DAO account.
-To decentralize the COI Reporting steps instead, one would need to create a specific contract on-chain (but it's still unclear what would be the best way to make submissions visible only to the Council members to avoid public defamation).
+## Implementation procedure, example 2 (decentralization improvement)
 
+To further secure the disclosure & monitoring process by means of decentralization, we could implement a JUNO-governed (independent from DAODAO UI or any specific Council member) on-chain service to:
+
+- Directly upload the policy, each member's disclosures, and "transparency agents" reports on-chain, on IPFS, a partner chain, or similar decentralized storage service managed by JUNO stakers.
+- Manage the submissions to the COI Reporting form with an immutable smart contract with custom privacy features & automatic publishing workflows.
+
+Both services should guarantee the availability of the content (policy, disclosures, reports).
+
+Community contributors are encouraged to propose solutions to this problem, knowing that they could be retroactively rewarded or granted funds from the Council budget or the Juno Community Pool in general.
 
 ## Rationale
 
