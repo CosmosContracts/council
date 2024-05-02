@@ -150,13 +150,13 @@ For example, this could be a starting point:
 
 ## Relevant reads
 
-[A comparative analysis of financial disclosure obligations on members of parliaments:](https://www.europarl.europa.eu/RegData/etudes/STUD/2023/747911/EPRS_STU(2023)747911_EN.pdf) (European Union)
+[A comparative analysis of financial disclosure obligations on members of parliaments](https://www.europarl.europa.eu/RegData/etudes/STUD/2023/747911/EPRS_STU(2023)747911_EN.pdf) (European Union):
 > 1. all EU Member States currently impose financial disclosure obligations on the members of their national parliaments
 > 2. all Member States require them to disclose that information shortly after taking up their duties and to update it either at regular intervals or when the situation has changed
 > 3. 19 out of 27 Member States ensure the declaration(s) provided by members of parliament are made public through unrestricted access via the internet. A few have opted for a different solution, providing access to declarations only on request, or restricting access to relevant parts of the declarations to competent national authorities. 
 
 
-[Criminal conflict of interest laws:](https://www.oge.gov/web/oge.nsf/0/7646D1C6ECAE9863852585B6005A1A20/$FILE/Criminal%20Conflicts%20of%20Interest%20508.pdf) (United States of America)
+[Criminal conflict of interest laws](https://www.oge.gov/web/oge.nsf/0/7646D1C6ECAE9863852585B6005A1A20/$FILE/Criminal%20Conflicts%20of%20Interest%20508.pdf) (United States of America):
 
 > 1. You are prohibited from working on Government matters in which you, your spouse or minor child, or certain others have a financial interest. 
 > 2. You may not be paid by someone other than the United States for doing your Government duties.
