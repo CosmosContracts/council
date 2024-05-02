@@ -141,9 +141,7 @@ The Operations Department might delegate [~6M JUNO](https://hackmd.io/@G2q75faES
 The COI member should abstain from voting on such proposals. If a majority is unable to form (because of COI on ≥50% of members), such proposals could be voted on the Council or Juno Governance (by the community at large), leaving the Delegation SubDAO only the duty of providing the rationale and information to suggest such delegations.
 
 4. **Hypothetical collusion between members**
-
 TODO for a future version because it's not simple to write a rule on this that doesn't add significant liabilities to all Council members.
-
 For example, this could be a starting point:
     > Collusion: in case a Department’s or its SubDAOs’ proposal creates a new COI (which is not already noted on the proposal’s text) to another member, proposer & subject must both vote ABSTAIN, and the subject must disclose his COI before the proposal's veto lock expires.
 
