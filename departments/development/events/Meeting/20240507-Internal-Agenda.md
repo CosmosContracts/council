@@ -102,6 +102,12 @@
      - Determine Requirements and explore potential tooling options
    - **DELIVERABLES**
      - [ ] Transfer ownership of juno.zone to Juno through decentralized ownership
+    
+1. **Documentation**
+   - **RESOURCES**
+     - [Document Status Spreadsheet](https://docs.google.com/spreadsheets/d/14k69gPJoIi0K9sFxO15uaiMeR_K5JnDB31JbHoIalZ8/edit)
+     - [Discord Discussion](https://discord.com/channels/816256689078403103/1224337590774267934)
+   - Define maintainers of the [Docs repo](https://github.com/CosmosContracts/docs) (should we add Dev Dept members?)
 
 ---
 
@@ -118,8 +124,6 @@
 1. RFP Presentation Recap
 
 ## TABLED ITEMS (pushed to a future meeting)
-
-1. Documentation **RESOURCES** [Document Status Spreadsheet](https://docs.google.com/spreadsheets/d/14k69gPJoIi0K9sFxO15uaiMeR_K5JnDB31JbHoIalZ8/edit) [Discord Discussion](https://discord.com/channels/816256689078403103/1224337590774267934)
 
 1. Hackathon for Juno
    - Potentially October [name=Highlander]
