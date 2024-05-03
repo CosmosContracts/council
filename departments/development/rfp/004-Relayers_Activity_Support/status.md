@@ -6,7 +6,7 @@
 
 ### Proposal Submission Close Date: `22-04-2024`
 
-<i><b>Note: <b>Since no submissions were received, the RFP process will be reinitiated. <i>
+<i><b>Note:</b> Since no submissions were received, the RFP process will be reinitiated.</i>
 
 ### Proposal Submission Date: `29-04-2024`
 
