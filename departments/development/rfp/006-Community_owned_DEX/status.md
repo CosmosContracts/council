@@ -2,13 +2,23 @@
 
 ## Proposal Status: `Under Review`
 
-### Proposal Submission Date: `08-04-2024`
+### Proposal Submission Date: `15-02-2024`
 
-### Proposal Submission Close Date: `22-04-2024`
+### Proposal Submission Close Date: `01-03-2024`
 
 ### Proposal Review Date (Private Meeting 1): `held by Ops Dept, NA`
 
-<i><b>Note:</b> this RFP was created & managed by the Juno Operations Department until 2024-05-01, when it was handed over to the Development Department (hence it got the current location and Dept ID `006`).</i>
+### Proposal Review Committee Members (Ops Dept)
+
+- [ ] Cristiano
+- [ ] Cryptotank
+- [ ] Xanthar
+- [ ] Dimi
+- [ ] Macks
+
+<i><b>Note:</b> this RFP was created & managed by the Juno Operations Department until 2024-05-01, when it was handed over to the Development Department (hence it got this current location and Dept ID `006`).</i>
+
+### Proposal Review Date (Private Meeting 2): `TBD by Dev Dept`
 
 ### Proposal Review Committee Members (Dev Dept)
 
@@ -31,6 +41,13 @@
 #### March 15th, 2024 04:00 UTC
 
 - Location: Discord #stage-meetings channel
-- Presenter: Submission 1
+- Presenter: Submission 1 (Mercury DEX, by Kintsugi)
   - [PDF](./submission_1.pdf)
   - [Audio Recording](https://open.spotify.com/episode/1yMwrgsEOF7GBSO6ozNwNm)
+
+### Revised Proposals
+
+- Submission 1
+  - Date: March 25th, 2024
+  - [PDF](./submission_1_2.pdf)
+  - [Deliverables](https://docs.google.com/spreadsheets/d/1OLyKtwKPGG4aG-Ts0rzdgMxSZ5U7UTPkKJJjaRSy0BM/edit?usp=sharing)
