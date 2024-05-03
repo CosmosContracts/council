@@ -17,7 +17,7 @@
     - [x] [April 23rd, 2024](./20240409-Meeting-Internal-Minutes.md)
       - Submitted to Github and Approved
         - Discussion on the minutes submission and approval process
-    
+
 2. Working Group Updates
     - 🤝 **Vesting** 🤝 @kopeboy
       - Created generalized [procedure on Github](https://github.com/CosmosContracts/council/blob/7a64afce765054919062927916927e5bc2565f6a/procedures/withdraw_from_canceled_vestings.md) and recap with the specific data on [HackMD](https://hackmd.io/@kopeboy/r1YkK-b-A).
@@ -62,42 +62,52 @@
       - RFP integration into Website
 
 3. Review responses to Dev Department Contact Form
- - No new messages
+
+    - No new messages
 
 4. Darkside Podcast Response
-  - Email sent yesterday to Scott
+
+    - Email sent yesterday to Scott
 
 5. Juno.tools
-  - @rayraspberry Juno Tools RFP
-  - @Dat-Andre work on Asset Management
-  - @rayraspberry - Multiple Juno domains and web services shouldn't be running their own hosting services for each
+
+    - @rayraspberry Juno Tools RFP
+    - @Dat-Andre work on Asset Management
+    - @rayraspberry - Multiple Juno domains and web services shouldn't be running their own hosting services for each
 
 6. New Metric Meeting Review
-  - @Dat-Andre would be good to understand the project and make other people aware of the project existance
+
+    - @Dat-Andre would be good to understand the project and make other people aware of the project existance
 
 7. Juno.Tools
-  - **ACTION**
-    - [ ] Create RFP to Maintain Juno.Tools
+
+    - **ACTION**
+        - [ ] Create RFP to Maintain Juno.Tools
 
 8. Juno Havling Website
-  - @kopeboy has the source code for this
-  - @Dat-Andre insert the calculation for the halving in the Documentation Repo
+
+    - @kopeboy has the source code for this
+    - @Dat-Andre insert the calculation for the halving in the Documentation Repo
 
 9. Support RFP
-  - Private Meeting to Commense after this meeting
-  - Public Meeting Posted
+
+    - Private Meeting to Commense after this meeting
+    - Public Meeting Posted
 
 10. Contact Approved Submissions for Blockchain Engineer RFP
-  - @rayraspberry to put up template for review on Council Github
-  - @kopeboy will send out messages to individual parties
-  
+
+    - @rayraspberry to put up template for review on Council Github
+    - @kopeboy will send out messages to individual parties
+
 11. Github Dev Department Structure Organization
-  - Will resolve in the Github Issue
-  - Public/Stage to Public
-  - Remove OTHER Categories
+
+    - Will resolve in the Github Issue
+    - Public/Stage to Public
+    - Remove OTHER Categories
 
 12. Council Meeting Budget Meeting - April 24th, 2024 2:00 PM UTC
-  - @rayraspberry previously discussed in this meeting
-  - Council Meeting Planning for tomorrow
+
+    - @rayraspberry previously discussed in this meeting
+    - Council Meeting Planning for tomorrow
 
 13. Council Meeting Planning for Thursday May 2nd, 2024 [name=Ray Raspberry]

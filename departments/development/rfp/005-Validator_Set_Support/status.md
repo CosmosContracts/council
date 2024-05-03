@@ -12,16 +12,17 @@
 
 ### Proposal Submission Close Date: `20-05-2024`
 
-### Proposal Review Date (Private Meeting):
+### Proposal Review Date (Private Meeting)
 
-### Proposal Review Committee Members:
+### Proposal Review Committee Members
 
     - [ ] @kopeboy
     - [ ] @poroburu
     - [ ] @Dat-Andre
     - [ ] @rayraspberry
+    - [ ] @JakeHartnell (Meow)
 
-### Proposal Review Summary:
+### Proposal Review Summary
 
     - [ ] Submissions Reviewed
     - [ ] Shortlist of Candidates Selected

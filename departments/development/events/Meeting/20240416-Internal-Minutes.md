@@ -1,9 +1,9 @@
 # Juno Dev Dept Meeting Minutes - April 16th, 2024
 
 - **Participants:**
-  - [ ] Meow / Jake
+  - [ ] @JakeHartnell (Meow)
   - [x] @poroburu
-  - [x] AndreGo
+  - [x] @Dat-Andre
   - [x] @kopeboy
   - [x] @rayraspberry
 
@@ -61,52 +61,57 @@
         - Meeting scheduled for Demo at 16UTC on April 22nd 2024
 
 1. Review responses to Dev Department Contact Form
-  - no new responses
+
+    - no new responses
 
 1. Darkside Podcast Response
-  - Lorenzo has prepared a response awaiting dev dept member approval
-    - [discord: response](https://discord.com/channels/816256689078403103/1175785630052126810/1227599177043677184)
+
+    - Lorenzo has prepared a response awaiting dev dept member approval
+      - [discord: response](https://discord.com/channels/816256689078403103/1175785630052126810/1227599177043677184)
 
 1. New Metric Public Presentation
-  - Meeting Scheduling for Thursday 18th April 2024 at 17UTC
+
+    - Meeting Scheduling for Thursday 18th April 2024 at 17UTC
 
 1. Documentation
-  - getting ownership of the documentation
-  - discussion about how to move forward
-  - bring to council to raise awareness of work required on documentation
+
+    - getting ownership of the documentation
+    - discussion about how to move forward
+    - bring to council to raise awareness of work required on documentation
 
 1. Juno.tools
-  - waiting on Q2 Budget approval
+
+    - waiting on Q2 Budget approval
 
 1. #cross-department
-  1. Interchain-Test update request
+    1. Interchain-Test update request
 
 1. Council Meeting Agenda
-  1. Budget Submission Propsal for Q2
-  1. Progress reports on Working Groups: 
-    1. Abstract SDK
-    1. Policy
-    1. Asset Management
-    1. Security
-    1. Treasury / Reserve
+    1. Budget Submission Propsal for Q2
+    1. Progress reports on Working Groups:
+        1. Abstract SDK
+        1. Policy
+        1. Asset Management
+        1. Security
+        1. Treasury / Reserve
 1. Abstract Money Market dApp would need to be developed
-  1. Discussion on the dApp and that it needs to be created
-  1. Money Market dApp and waiting for feedback from Abstract
-  1. Private TG Group
-  1. @kopeboy:
-      1. Discussion with Abstract dev in private has strategic relevance, @kopeboy would like to have access to the group or published updates.
-      1. Define a strategy within the Council; start focusing on product (appchain) development and end-users who can sustain the network by investing.
-  1. @poroburu: networks like Juno require a vision and a strategy
-    1. challenge all delegates to create a vision station
-    1. Poroburu Vision: Juno acting as a middleware (IBC) for all chains + creating rails for DAOs
-  1. Restake DAO 
+    1. Discussion on the dApp and that it needs to be created
+    1. Money Market dApp and waiting for feedback from Abstract
+    1. Private TG Group
+    1. @kopeboy:
+        1. Discussion with Abstract dev in private has strategic relevance, @kopeboy would like to have access to the group or published updates.
+        1. Define a strategy within the Council; start focusing on product (appchain) development and end-users who can sustain the network by investing.
+    1. @poroburu: networks like Juno require a vision and a strategy
+        1. challenge all delegates to create a vision station
+        1. Poroburu Vision: Juno acting as a middleware (IBC) for all chains + creating rails for DAOs
+1. Restake DAO
     1. Unsolicited Token Gifts should not be utilized
     1. Setting the Standard Going Forward
 1. RFP02 - Blockchain Maintenance Engineer
-  1. qualified 2 candidates
-  1. Communication Draft
-    1. sent from dev.dept email
+    1. qualified 2 candidates
+    1. Communication Draft
+        1. sent from dev.dept email
 1. Create `templates` folder in Department for Correspondence
-  1. @kopeboy to create the folder
+    1. @kopeboy to create the folder
 1. Create and Store Correspondence for RFP02 in the RFP folder
-  1. @rayraspberry to create the folder
+    1. @rayraspberry to create the folder

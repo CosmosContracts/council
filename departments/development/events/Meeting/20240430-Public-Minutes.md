@@ -1,4 +1,5 @@
 # Juno Dev Dept Meeting Minutes - April 30th, 2024 14:30UTC
+
 ## Public Meeting
 
 - **Location:** [Public Meeting Location](https://discord.com/channels/816256689078403103/1195704025664978966)
@@ -19,7 +20,7 @@
     - [x] [April 23rd, 2024](./20240409-Meeting-Internal-Minutes.md)
       - Submitted to Github and Approved
         - Discussion on the minutes submission and approval process
-    
+
 2. Working Group Updates
     - 🤝 **Vesting** 🤝 @kopeboy
       - Vesting Proposal PASSED AND EXECUTED: [DAODAO Proposal A21](https://daodao.zone/dao/juno1gyjl26rnqqyk6cuh6nqtvx8t885jgqagusvpqpvtgaygcjg2wjdqz0rzle/proposals/A21)
@@ -29,7 +30,7 @@
         - C: Previous Dev Dept Treasury = 469685648344
         - D: Current treasury = 1004218650799
           => D - C - B - A ≈ 0
-        - Open points (asked to Jake in DM & in DAODAO Discord server): 
+        - Open points (asked to Jake in DM & in DAODAO Discord server):
           - clarify why the difference is 47 JUNO (not zero)
           - how did WYND Foundation contract had a different owner?
           - DAO Vestings tab doesn't update the list of owned contracts
@@ -66,7 +67,7 @@
           - Immutable information regarding the conflict of interest is placed in an NFT
       - No feedback from Operations department
       - Procedure Overview
-        - @rayraspberry: The conflicts of interest should not be editable by the Council or Department members because they are potential subject of Conflict of Interest inquiries. 
+        - @rayraspberry: The conflicts of interest should not be editable by the Council or Department members because they are potential subject of Conflict of Interest inquiries.
         - Clarify shortcomings of implementations
       - @Dat-Andre : public v private - delegates should be open to criticism / attacks
       - @poroburu : positions should be open to public scrutiny
@@ -79,61 +80,71 @@
       - No Updates
 
 1. Review responses to Dev Department Contact Form
- - No new messages
+
+    - No new messages
 
 1. Juno Havling Website
-  - [ ] @kopeboy will place the code in the Documentation Repository
+
+    - [ ] @kopeboy will place the code in the Documentation Repository
 
 1. Darkside Podcast Response
-  - Email was not delivered, reply email / domain was not valid
+
+    - Email was not delivered, reply email / domain was not valid
 
 1. Juno.tools
-  - waiting on the budget 
+
+    - waiting on the budget
 
 1. Support RFP
-  - Two weeks for the proposal presentation window.
-  - tentatively 16:00 (4pm) UTC Thursday May 2nd - dApp proposal
-  - tentatively 18:00 (6pm) UTC Friday May 3rd - Blockchain Engineer
-  - publish: 
-    - Blockchain - submitted via form, upload submissions in markdown in the Github
-      - `/council/departments/development/rfp/001-Blockchain_Maintenance_Provider`
-    - dApp - submitted via email, upload submission in Github 
-      - `/council/departments/development/rfp/003-dApp_Development_Support`
-  - create:
-    - Commonwealth Post for each Submission
+
+    - Two weeks for the proposal presentation window.
+    - tentatively 16:00 (4pm) UTC Thursday May 2nd - dApp proposal
+    - tentatively 18:00 (6pm) UTC Friday May 3rd - Blockchain Engineer
+    - publish:
+        - Blockchain - submitted via form, upload submissions in markdown in the Github
+            - `/council/departments/development/rfp/001-Blockchain_Maintenance_Provider`
+        - dApp - submitted via email, upload submission in Github
+            - `/council/departments/development/rfp/003-dApp_Development_Support`
+    - create:
+        - Commonwealth Post for each Submission
 
 1. RFP Presentation Meeting Structure [45 minutes in total]
-  1. Introduction to Juno Request (Dev Department) [5 minutes]
-    1. Submissions received, accepted, rejected
-  2. Candidate Presentation (Candidate) [ 20 minutes ]
-  3. Open for Questions for Department or Public [ 20 minutes ]
-  4. Announcement Commonwealth Discussion to Open Afterwards
+    1. Introduction to Juno Request (Dev Department) [5 minutes]
+        1. Submissions received, accepted, rejected
+    2. Candidate Presentation (Candidate) [ 20 minutes ]
+    3. Open for Questions for Department or Public [ 20 minutes ]
+    4. Announcement Commonwealth Discussion to Open Afterwards
 
 1. @kopeboy RFP Presentation Preparation
-  - [ ] Create Template for Response
-  - [ ] Send Email to Confirm Meeting Times with Submittors
-  - [ ] Receive Confirmation from Submittors
-  - [ ] Publish Submissions to Github @Dat-Andre
-  - [ ] Contact Communications to Send Out Announcements of Meetings
-  - [ ] Create Discord Events
+
+    - [ ] Create Template for Response
+    - [ ] Send Email to Confirm Meeting Times with Submittors
+    - [ ] Receive Confirmation from Submittors
+    - [ ] Publish Submissions to Github @Dat-Andre
+    - [ ] Contact Communications to Send Out Announcements of Meetings
+    - [ ] Create Discord Events
 
 1. Council Meeting Meeting Preparation - May 2nd 2024 14:00 UTC
-  - DAODAO Vesting
-  - 
+
+    - DAODAO Vesting
+    -
 
 1. Github Dev Department Structure Organization
-  - remove from future agenda
+
+    - remove from future agenda
 
 1. Proposal to Create Osmosis Address for Council
-  - @kopeboy will put Dev Dept Proposal Up
+
+    - @kopeboy will put Dev Dept Proposal Up
 
 1. PUBLIC COMMENT
-  - returniflost: 
-    - Wrappr (Legal Wrappr entity in CosmWasm)
-      - Neutron DAO + Wrapper are interested in supporting this effort
-      - Would appreciate Feedback
-    - Custom Treasury Implementation
-      - purpose: to mitigate SPAM / unsolicited tokens being sent to the treasury
-    - LEXDAO and Kali DAO
-      - Recardian Mint
-      - On-chain signature represents the keyholder
+
+    - returniflost:
+        - Wrappr (Legal Wrappr entity in CosmWasm)
+            - Neutron DAO + Wrapper are interested in supporting this effort
+            - Would appreciate Feedback
+        - Custom Treasury Implementation
+            - purpose: to mitigate SPAM / unsolicited tokens being sent to the treasury
+        - LEXDAO and Kali DAO
+            - Recardian Mint
+            - On-chain signature represents the keyholder
