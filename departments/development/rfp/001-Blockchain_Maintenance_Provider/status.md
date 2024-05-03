@@ -8,17 +8,17 @@
 
 ### Proposal Review Date (Private Meeting): `05-04-2024`
 
-### Proposal Review Committee Members:
+### Proposal Review Committee Members
 
-    - [x] @kopeboy
-    - [x] @poroburu
-    - [x] @Dat-Andre
-    - [x] @rayraspberry
+- [x] @kopeboy
+- [x] @poroburu
+- [x] @Dat-Andre
+- [x] @rayraspberry
 
-### Proposal Review Summary:
+### Proposal Review Summary
 
-    - [x] Submissions Reviewed
-    - [x] Shortlist of Candidates Selected
-    - [ ] Candidates Contacted by Review Committee
-    - [ ] Candidates Selected for Public Proposal Presentation
-    - [ ] Winning Bid Selected
+- [x] Submissions Reviewed
+- [x] Shortlist of Candidates Selected
+- [ ] Candidates Contacted by Review Committee
+- [ ] Candidates Selected for Public Proposal Presentation
+- [ ] Winning Bid Selected

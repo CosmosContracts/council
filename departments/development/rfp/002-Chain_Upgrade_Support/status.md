@@ -12,19 +12,19 @@
 
 ### Proposal Submission Close Date: `20-05-2024`
 
-### Proposal Review Date (Private Meeting):
+### Proposal Review Date (Private Meeting)
 
-### Proposal Review Committee Members:
+### Proposal Review Committee Members
 
-    - [ ] @kopeboy
-    - [ ] @poroburu
-    - [ ] @Dat-Andre
-    - [ ] @rayraspberry
+- [ ] @kopeboy
+- [ ] @poroburu
+- [ ] @Dat-Andre
+- [ ] @rayraspberry
 
-### Proposal Review Summary:
+### Proposal Review Summary
 
-    - [ ] Submissions Reviewed
-    - [ ] Shortlist of Candidates Selected
-    - [ ] Candidates Contacted by Review Committee
-    - [ ] Candidates Selected for Public Proposal Presentation
-    - [ ] Winning Bid Selected
+- [ ] Submissions Reviewed
+- [ ] Shortlist of Candidates Selected
+- [ ] Candidates Contacted by Review Committee
+- [ ] Candidates Selected for Public Proposal Presentation
+- [ ] Winning Bid Selected
