@@ -50,4 +50,4 @@
 - Submission 1
   - Date: March 25th, 2024
   - [PDF](./submission_1_2.pdf)
-  - [Deliverables](https://docs.google.com/spreadsheets/d/1OLyKtwKPGG4aG-Ts0rzdgMxSZ5U7UTPkKJJjaRSy0BM/edit?usp=sharing)
+  - [Deliverables](./submission_1_2_deliverables.md)
