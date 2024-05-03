@@ -20,6 +20,7 @@
 - [ ] @poroburu
 - [ ] @Dat-Andre
 - [ ] @rayraspberry
+- [ ] @JakeHartnell (Meow)
 
 ### Proposal Review Summary
 
