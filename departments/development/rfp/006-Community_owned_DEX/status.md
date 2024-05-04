@@ -47,7 +47,7 @@
 
 ### Revised Proposals
 
-- Submission 1
+- Submission 1.2
   - Date: March 25th, 2024
   - [PDF](./submission_1_2.pdf)
-  - [Deliverables](./submission_1_2_deliverables.md)
+  - [Deliverables](./submission_1_2_deliverables.tsv)
