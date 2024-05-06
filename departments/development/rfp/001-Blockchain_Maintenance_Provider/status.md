@@ -20,6 +20,6 @@
 
 - [x] Submissions Reviewed
 - [x] Shortlist of Candidates Selected
-- [ ] Candidates Contacted by Review Committee
-- [ ] Candidates Selected for Public Proposal Presentation
+- [x] Candidates Contacted by Review Committee
+- [x] Candidates Selected for Public Proposal Presentation
 - [ ] Winning Bid Selected
