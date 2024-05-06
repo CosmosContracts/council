@@ -30,5 +30,3 @@ FYI Juno is not a POA chain as the RFP suggest. Unless Juno is switching to my m
 Further, if Juno want's native price fees with Skip's slinky, SDK v50 is required so the chain can build native DeFi applications using the trusted data secured by Juno's validators and not outside 3rd parties (i.e.e OjO from Umee).
 
 mesh security module integration
-
-EMAIL: reecepbcups@gmail.com
