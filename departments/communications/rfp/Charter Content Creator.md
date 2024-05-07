@@ -37,7 +37,7 @@ Proposals must include:
 
 
 ### Submission Guidelines
-Proposals must be submitted via e-mail to `comms.dept@juno.zone` by `13th of May, 2024`. Please include "Charter Content Creator for Juno Communications" in the email subject field. Proposals received after the deadline will not be considered.
+Proposals must be submitted via e-mail to `comms.dept@juno.zone` by `15th of May, 2024`. Please include "Charter Content Creator for Juno Communications" in the email subject field. Proposals received after the deadline will not be considered.
 
 ### Evaluation Criteria
 Proposals will be evaluated on:
