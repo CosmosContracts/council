@@ -122,6 +122,7 @@
 
 1. Council Meeting Recap
 1. RFP Presentation Recap
+1. Mercury DEX Proposal (RFP#6 Submission#1)
 
 ## TABLED ITEMS (pushed to a future meeting)
 
