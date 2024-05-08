@@ -56,3 +56,15 @@ In case of disputes, the *Juno* network community will be the competent court an
   - address = `juno10d07y265gmmuvt4z0w9aw880jnsr700jvss730`
   - message type = `cosmos-sdk/MsgVote`
 - Voters: all JUNO stake-holders (1 JUNO = 1 vote) through *Governance*.
+
+### Disputes
+
+A dispute is opened by either the Payer, Verifier, or Receiver with a public statement or automatically after 2 weeks delay on any payment.
+
+### Mediation
+
+Both the receiver and the payer can select one independent mediator each that will conduct public meetings on the [Juno Discord server](https://discord.gg/EUGFpdnc) to find resolution agreements. In case mediators are agreed upon before any dispute, they must work towards resolution for at least 4 weeks before a new payment to the Receiver is proposed in the *Jurisdiction*.
+
+### Termination
+
+In case a dispute cannot be resolved, #TBD
