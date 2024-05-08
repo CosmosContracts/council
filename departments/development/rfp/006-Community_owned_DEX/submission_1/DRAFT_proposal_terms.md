@@ -2,13 +2,13 @@
 
 ## Legend
 
-- Final proposal = **#TBD**: either all documents with prefix `proposal` on this Github folder, or an NFT referencing an immutable version of the full proposal
-- Deliverables = **#TBD**: either all documents with prefix `proposal_deliverables` on this Github folder, or an NFT referencing an immutable version of all the deliverables
-- Payer = *Council*: `juno1nmezpepv3lx45mndyctz2lzqxa6d9xzd2xumkxf7a6r4nxt0y95qypm6c0`
-- Receiver = *Kintsugi*: `osmo1ruxpcljuhpepuw2ywxlqsuhy8u3eulz5hdrsedcvwex8qnsd9yqsqv09j7`
-- Payment Amount denomination(s):
+- **Final proposal** = **#TBD**: either all documents with prefix `proposal` on this Github folder, or an NFT referencing an immutable version of the full proposal, sent by the receiver to the payer
+- **Deliverables** = **#TBD**: either all documents with prefix `proposal_deliverables` on this Github folder, or an NFT referencing an immutable version of all the deliverables, sent by the receiver to the payer
+- **Payer** = *Council*: `juno1nmezpepv3lx45mndyctz2lzqxa6d9xzd2xumkxf7a6r4nxt0y95qypm6c0`
+- **Receiver** = *Kintsugi*: `osmo1ruxpcljuhpepuw2ywxlqsuhy8u3eulz5hdrsedcvwex8qnsd9yqsqv09j7`
+- **Payment Amount denomination(s)** =
   - *USDC* = Noble USDC on Osmosis: `ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4`
-- Technical verification = approved on-chain proposal by the verifier to the payer or *default verification*:
+- **Technical verification** = approved on-chain proposal by the verifier to the payer or *default verification*:
   - Verifier = *Development Department*: `juno1nmezpepv3lx45mndyctz2lzqxa6d9xzd2xumkxf7a6r4nxt0y95qypm6c0`
   - Default verification = **#TBD** weeks after *verifier* is given access to *deliverables* relevant for each payment.
 
@@ -38,15 +38,17 @@ Tranche 2 (Mid Payment):
 
 Tranche 3 (Final Payment):
 
-- Upon: Completion & technical verification of all *deliverables*
+- Upon: Completion & technical verification of all *deliverables* (#TBD: we could we make it 90% of deliverables?)
 - Amount: 18000 *USDC*
 - Deadline: none
 - Bonus: none
 - Malus: none
 
-## Jurisdiction (competent court)
+## Jurisdiction
 
-*Juno* network:
+In case of disputes, the *Juno* network community will be the competent court and have the final say by expressing their vote on *Governance* proposals.
+
+*Juno*:
 
 - Chain ID = `juno-1`
 - Address prefix (bech32) = `juno`
