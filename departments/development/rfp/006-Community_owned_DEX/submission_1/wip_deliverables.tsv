@@ -1,41 +1,69 @@
 ID	Status	Description	Notes
-1	_	MVP Phase	_
-1.1	_	Base	_
-1.1.1	_	Basic ui with juno brands	_
-1.2	_	Swap Page	_
-1.2.2	_	Possibility to connect a wallet with a dedicated button	_
-1.2.3	_	Possibility to set the slippage with a dedicated button	_
-1.2.4	_	Possibility to choose the assets pair to swap via UI	_
-1.2.5	_	Assets price	_
-1.2.6	_	Price impact	_
-1.2.7	_	Route	_
-1.3	_	Pools Page	_
-1.3.1	_	View of Combined APR, Total Liquidty, 24h Volume, Fees, Liquidity	_
-1.3.2	_	UI with two different section: My pools & All Pools	_
-1.3.3	_	Possibility to sort pools by: Total Liquidity, Combined APR	_
-1.3.4	_	UI to monitor and control the liquidity provided (pool's data, possibility to remove liquidity)	_
-1.3.5	_	View of Pending rewards, My liquidity, Shares	_
-1.3.6	_	Possibility to provide liquidity to pools via UI	_
-1.3.7	_	Possibility to claim pending rewards with a dedicated button	_
-1.4	_	Tokens Page	_
-1.4.1	_	View of Balance, TVL, Volume and price	_
-1.4.2	_	Possibility to sort Tokens by: Balance, TVL, Volume	_
-1.4.3	_	Possibility to deposit & withdraw Tokens with a dedicated button	_
-1.4.4	_	Possibility to swap Tokens with a dedicated button	_
-1.4.5	_	Balance view	_
-1.5	_	Bridge Page	_
-1.5.1	_	Possibility to select networks pair and asset to bridge via UI	_
-1.5.2	_	Possibility to select 50% or Max tokens with two dedicated Button	_
-1.5.3	_	"Possibility to review bridging data (costs, routes, estimated time) via information box before confirming the action. "	_
-2	_	PHASE 2: More features	_
-2.1	_	Create Pool Page	_
-2.1.1	_	UI to choose the assets pair to create a new constant product pool	_
-2.2	_	Incentivate Pool Page	_
-2.2.1	_	Possibility to choose the pool to be incentivized	_
-2.2.2	_	Possibility to choose the incentivization duration	_
-2.2.3	_	Possibility to choose the incentivization method (time-fixed or time-decreasing)	_
-2.2.4	_	Possibility to choose the token with which to incentivize	_
-2.3	_	Dark Mode	_
-2.4	_	Guides/Docs Page	_
-2.5	_	Varius link to Github, Juno Website, Discord	_
-2.6	_	Various automatic risk indication for tokens when swap	_
+1	0 - Not started	MVP Phase	_
+1.1	0 - Not started	Base	_
+1.1.1	0 - Not started	Basic ui with juno brands	_
+1.1.2	0 - Not started	Innovative UI libraries & frameworks are used	_
+1.2	0 - Not started	Swap Page	_
+1.2.2	0 - Not started	Possibility to connect a wallet with a dedicated button	_
+1.2.3	0 - Not started	Possibility to set the slippage with a dedicated button	_
+1.2.4	0 - Not started	Possibility to choose the assets pair to swap via UI	_
+1.2.5	0 - Not started	Assets price	_
+1.2.6	0 - Not started	Price impact	_
+1.2.7	0 - Not started	Route	_
+1.3	0 - Not started	Pools Page	_
+1.3.1	0 - Not started	View of Combined APR, Total Liquidty, 24h Volume, Fees, Liquidity	_
+1.3.2	0 - Not started	UI with two different section: My pools & All Pools	_
+1.3.3	0 - Not started	Possibility to sort pools by: Total Liquidity, Combined APR	_
+1.3.4	0 - Not started	UI to monitor and control the liquidity provided (pool's data, possibility to remove liquidity)	_
+1.3.5	0 - Not started	View of Pending rewards, My liquidity, Shares	_
+1.3.6	0 - Not started	Possibility to provide liquidity to pools via UI	_
+1.3.7	0 - Not started	Possibility to claim pending rewards with a dedicated button	_
+1.4	0 - Not started	Tokens Page	_
+1.4.1	0 - Not started	View of Balance, TVL, Volume and price	_
+1.4.2	0 - Not started	Possibility to sort Tokens by: Balance, TVL, Volume	_
+1.4.3	0 - Not started	Possibility to deposit & withdraw Tokens with a dedicated button	_
+1.4.4	0 - Not started	Possibility to swap Tokens with a dedicated button	_
+1.4.5	0 - Not started	Balance view	_
+1.5	0 - Not started	Bridge Page	_
+1.5.1	0 - Not started	Possibility to select networks pair and asset to bridge via UI	_
+1.5.2	0 - Not started	Possibility to select 50% or Max tokens with two dedicated Button	_
+1.5.3	0 - Not started	"Possibility to review bridging data (costs, routes, estimated time) via information box before confirming the action. "	_
+1.6	0 - Not started	Manage Swap fees from Juno Governance	_
+1.6.1	0 - Not started	Possibility to change swap fees globally	_
+1.6.2	0 - Not started	Possibility to change swap fee per pool	_
+1.6.3	0 - Not started	Possibility to change fee recipients among Juno SubDAOs	_
+1.6.4	0 - Not started	Possibility to send fees to a custom contract that will handle the distribution	_
+1.7	0 - Not started	Tokenless governance: management by JUNO only thorugh Juno x/gov module	_
+1.8	0 - Not started	Skip integration	_
+1.8.1	0 - Not started	Allow the DEX to be added to the fair MEV mechanism already supported on Juno chain	_
+1.8.2	0 - Not started	Allow the DEX to be added to the Skip aggregation UIs like ibc.fun	_
+1.8.3	0 - Not started	Allow deposits/withdrawals with the Skip API	_
+2	0 - Not started	MORE FEATURES Phase	_
+2.1	0 - Not started	Create Pool Page	_
+2.1.1	0 - Not started	UI to choose the assets pair to create a new constant product pool	_
+2.2	0 - Not started	Incentivate Pool Page	_
+2.2.1	0 - Not started	Possibility to choose the pool to be incentivized	_
+2.2.2	0 - Not started	Possibility to choose the incentivization duration	_
+2.2.3	0 - Not started	Possibility to choose the incentivization method (time-fixed or time-decreasing)	_
+2.2.4	0 - Not started	Possibility to choose the token with which to incentivize	_
+2.3	0 - Not started	Dark Mode	_
+2.4	0 - Not started	Guides/Docs Page	_
+2.5	0 - Not started	Varius link to Github, Juno Website, Discord	_
+2.6	0 - Not started	Various automatic risk indication for tokens when swap	_
+2.7	0 - Not started	Implement approved feedbacks from the previous phase	_
+3	0 - Not started	TESTING Phase	_
+3.1	0 - Not started	Release to a small group of testers, including Juno Development Department members	_
+3.2	0 - Not started	Collect feedback & questions	_
+3.3	0 - Not started	Implement UI Refinements	_
+4	0 - Not started	FINAL RELEASE Phase	_
+4.1	0 - Not started	Release all code with open source licensing	_
+4.2	0 - Not started	Deploy the contract on Juno mainnet	_
+4.3	0 - Not started	Deploy the UI on agreed upon hosting	_
+5	0 - Not started	SUPPORT Phase (for 6 months from completion of the Final Release phase)	_
+5.1	0 - Not started	Fix bugs	_
+5.2	0 - Not started	Support CosmWasm minor version upgrades	_
+5.3	0 - Not started	Support CosmJS minor version upgrades	_
+5.4	0 - Not started	Implement Security upgrades	_
+5.5	0 - Not started	Support developers	_
+5.6	0 - Not started	Finalize refinements from the Testing phase	_
+5.7	0 - Not started	Respond to questions from the Testing phase	_
