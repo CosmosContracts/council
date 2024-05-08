@@ -1,6 +1,6 @@
 # RFP 006-Community-owned DEX Proposal Status
 
-<i><b>Note:</b> this RFP was created as `RFP 001` by Juno Operations Department & managed by them until 2024-05-01, when it was handed over to the Development Department and got this current location and Dept-specific ID `006`.</i>
+<i><b>Note:</b> this RFP was created as RFP `001` by Juno Operations Department & managed by them until 2024-05-01, when it was handed over to the Development Department and got this current location and Dept-specific ID `006`.</i>
 
 ## Proposal Status: `Accepted`
 
@@ -16,6 +16,10 @@
 - [x] Candidates Selected for Public Proposal Presentation
 - [x] Winning Bid Selected
 - [ ] Payment terms Aprooved
+
+### Commonwealth Discussion
+
+- [Proposal Discussion](https://commonwealth.im/juno/discussion/16773-fund-the-building-of-juno-community-owned-dex-draft-proposal)
 
 ### Proposal Review Date (Private Meeting 2): `TBD by Dev Dept`
 
