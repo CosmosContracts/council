@@ -41,6 +41,9 @@
 - Administrator (operations)
 - Communications Department (council communications)
 
+1. Core 1 Vesting Contracts
+  - State + Impact
+
 1. Vesting
 - Wynd & Zeke Unstaked Vesting was sent to Core1 Treasury
   - `juno1j6glql3xmrcnga0gytecsucq3kd88jexxamxg3yn2xnqhunyvflqr7lxx3`
