@@ -1,4 +1,4 @@
-# Payment Terms of the Kintsugi proposal to the Community Owned DEX RFP
+# Terms of the Kintsugi proposal to the Community Owned DEX RFP
 
 ## Legend
 
@@ -60,11 +60,11 @@ In case of disputes, the *Juno* network community will be the competent court an
 
 ### Disputes
 
-After 2 weeks delay on any payment, a dispute can opened by either *Signatory* with a public statement.
+After 2 weeks delay on any payment, a dispute can be opened by either *Signatory* with a public statement.
 
 ### Mediation
 
-Both the receiver and the payer can select one independent mediator each that will conduct public meetings on the [Juno Discord server](https://discord.gg/EUGFpdnc) to find resolution agreements. In case mediators are agreed upon before any dispute, they must work towards resolution for at least 4 weeks before a new payment to the Receiver is proposed in the *Jurisdiction*.
+Both the receiver and the payer can select one independent mediator each that will conduct public meetings on the [Juno Discord server](https://discord.gg/EUGFpdnc) to find resolution agreements. In case mediators are agreed upon before any dispute, they must work towards resolution for at least 4 weeks before a new payment to the *Receiver* is proposed in the *Jurisdiction*.
 
 ### Termination
 
