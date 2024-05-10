@@ -2,8 +2,8 @@
 
 ## Legend
 
-- **Final proposal** = **#TBD**: an NFT referencing an immutable version of the full proposal (same `token_id`), sent by both the *receiver* and the *payer* to each other.
-- **Deliverables** = **#TBD**: an NFT referencing an immutable version of all the deliverables (same `token_id`), sent by both the *receiver* and the *payer* to each other.
+- **Final proposal** = **#TBD**: an NFT referencing an immutable version of the full proposal, sent by both the *receiver* and the *payer* to each other, with the same content & `token_id`.
+- **Deliverables** = **#TBD**: an NFT referencing an immutable version of all the deliverables, sent by both the *receiver* and the *payer* to each other, with the same content & `token_id`.
 - **Signatories**:
   - **Payer** = *Council*: `juno1nmezpepv3lx45mndyctz2lzqxa6d9xzd2xumkxf7a6r4nxt0y95qypm6c0`
   - **Receiver** = *Kintsugi*: `osmo1ruxpcljuhpepuw2ywxlqsuhy8u3eulz5hdrsedcvwex8qnsd9yqsqv09j7`
