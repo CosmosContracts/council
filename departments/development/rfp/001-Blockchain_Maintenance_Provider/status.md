@@ -20,6 +20,14 @@
 
 - [x] Submissions Reviewed
 - [x] Shortlist of Candidates Selected
-- [ ] Candidates Contacted by Review Committee
-- [ ] Candidates Selected for Public Proposal Presentation
+- [x] Candidates Contacted by Review Committee
+- [x] Candidates Selected for Public Proposal Presentation
 - [ ] Winning Bid Selected
+
+### Proposal Presentation
+
+#### May 8th, 2024 20:00 UTC
+
+- Location: Discord #stage channel
+- Presenter: Submission 1
+  - [Markdown](./submission_1.md)
