@@ -14,6 +14,8 @@ We invite proponents of Proposal #349 to engage with the Development Department 
 
 ##### Reference:
 
+* Development Department Proposal Affirming Statement: PLACEHOLDER: To be Filed
+
 * [Github: Statement Source](https://github.com/CosmosContracts/council/blob/main/departments/development/statements/proposal_349/DRAFT-statement-20240510-01.md)
 
 * [Juno Network Proposal #349](https://www.mintscan.io/juno/proposals/349)
