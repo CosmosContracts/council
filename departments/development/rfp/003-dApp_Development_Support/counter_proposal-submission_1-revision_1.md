@@ -1,4 +1,5 @@
-# Counter-Proposal from Juno Network
+# Counter-Proposal from Development Department
+May 10th, 2024
 
 ## Blockchain dApp Development Support
 
