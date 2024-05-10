@@ -33,3 +33,9 @@
   - [Markdown](./submission_1.md)
   - [PDF](./submission_1.pdf)
   - [Audio Recording](https://craig.horse/rec/T82UKplhSD6W?key=TL4i0Q)
+
+#### May 10th, 2024
+- Received [Revised Proposal](./submission_1-revision_1.pdf) from Vendor
+
+#### May 10th, 2024
+- Development Department [Counter Proposal](./counter_proposal-submission_1-revision_1.md) sent to Vendor via Email and published on Github and Discord
