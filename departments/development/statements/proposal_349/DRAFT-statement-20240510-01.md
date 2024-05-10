@@ -1,6 +1,6 @@
 # Development Department Official Statement
-## Re: Juno Commonwealth Proposal #349: Signal proposal for the council to put dapps as the first priority
-#### May 10th, 2024
+## [Juno Network Proposal #349](https://www.mintscan.io/juno/proposals/349)
+### May 10th, 2024
 
 The Juno Commonwealth Development Department respectfully recommends rejecting Juno Proposal #349, emphasizing the importance of aligning proposed initiatives in a collaborative and good faith with ongoing efforts being carried out by the Development Department.
 
@@ -11,11 +11,3 @@ The Juno Development Department stands behind the current efforts to implement a
 While Juno Proposal #349 highlights the need for dApp development, we believe that our department's ongoing efforts are better positioned to address this objective within the framework of the Charter. Our commitment to accountability and transparency guides our actions as we work towards executing the shared goals of the Juno Commonwealth in a sustainable way.
 
 We invite proponents of Proposal #349 to engage with the Development Department for further discussion and feedback on how to align proposed initiatives with the Charter's principles. Correspondence can be directed to dev.dept@juno.zone, and we commit to providing response within two weeks.
-
-##### Reference:
-
-* [Github: Statement Source](https://github.com/CosmosContracts/council/blob/main/departments/development/statements/proposal_349/DRAFT-statement-20240510-01.md)
-
-* [Juno Network Proposal #349](https://www.mintscan.io/juno/proposals/349)
-
-* [Commonwealth Discussion](https://commonwealth.im/juno/discussion/16718-farmville-style-dapp-tutorial-dapp-for-juno)
