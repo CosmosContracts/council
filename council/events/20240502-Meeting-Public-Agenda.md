@@ -1,9 +1,9 @@
-# Juno Council Meeting Agenda - May 2nd, 2024
+# Juno Council Meeting Agenda - May 3rd, 2024
 
 ###### tags: `Meeting` `Juno` `Council`
 
 - **Location:** #meetings https://discord.com/channels/816256689078403103/1185233414547329085
-- **Date:** May 2nd, 2024 15:00 UTC
+- **Date:** May 3rd, 2024 15:00 UTC
 - **Agenda**
 
 1. Open Meeting
@@ -24,7 +24,7 @@
 ## Old Business
 
 1. Approve Previous Meeting Minutes:
-    - [ ] [April 18th, 2024 14:00 UTC](./20240424-Meeting-Public-Minutes.md)
+    - [ ] [April 24th, 2024 14:00 UTC](./20240424-Meeting-Public-Minutes.md)
 
 ## New Business
 
