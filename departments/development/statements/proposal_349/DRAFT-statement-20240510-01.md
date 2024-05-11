@@ -4,9 +4,9 @@
 
 The Juno Charter Development Department recommends rejecting Juno Proposal #349.
 
-The Development Department acknowledges the critical role that decentralized applications (dApps) play in the growth and vitality of the Juno ecosystem.
+We acknowledge the critical role that decentralized applications (dApps) play in the growth and vitality of the Juno ecosystem.
 
-The Development Department stands behind the current efforts to implement and adhere to a Request for Proposal (RFP) structure as outlined in the Juno Charter.
+However, the Development Department stands behind the current efforts to implement and adhere to the current Request for Proposal (RFP) structure as outlined in the Juno Charter.
 
 Relevant Charter RFPs in progress:
 
@@ -19,7 +19,7 @@ These Charter RFP initiatives are designed to facilitate transparent decision-ma
 
 While Juno Proposal #349 highlights the need for dApp development, the Development Department believes the Charter's RFP structure is better positioned to bootstrap a dApp ecosystem that the Juno Commonwealth deserves.
 
-The Development Department invites Juno Commonwealth proposal authors to engage with the us for further discussion and feedback on how to align their proposed initiatives with the Charter's principles and current Department initiatives. Correspondence can be directed to `dev.dept@juno.zone`, and we commit to providing a thoughtful response within two weeks.
+The Development Department invites Juno Commonwealth proposal authors to engage with us for discussion and feedback.  Through collaborative discussions we can work together to align proposed initiatives with the Charter's principles and current Department activities in process. Correspondence can be directed to `dev.dept@juno.zone`, and we commit to providing a thoughtful response within two weeks.  All correspondence with Development Department should be considered public unless there is a special exception case as specified in the Charter.
 
 ##### Reference:
 
