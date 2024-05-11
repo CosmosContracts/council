@@ -17,7 +17,7 @@ Relevant Charter RFPs in progress:
 
 These Charter RFP initiatives are designed to facilitate transparent decision-making, accountability in execution, foster collaboration among the Juno Community, and set expectations for elected Charter Delegates and the providers of procured services. 
 
-While Juno Proposal #349 highlights the need for dApp development, we believe the Charter's RFP structure is better positioned to bootstrap a dApp ecosystem that the Juno Commonwealth deserves.
+While Juno Proposal #349 highlights the need for dApp development, the Development Department believes the Charter's RFP structure is better positioned to bootstrap a dApp ecosystem that the Juno Commonwealth deserves.
 
 The Development Department invites Juno Commonwealth proposal authors to engage with the us for further discussion and feedback on how to align their proposed initiatives with the Charter's principles and current Department initiatives. Correspondence can be directed to `dev.dept@juno.zone`, and we commit to providing a thoughtful response within two weeks.
 
