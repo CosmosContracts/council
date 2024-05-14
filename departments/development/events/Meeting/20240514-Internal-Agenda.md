@@ -17,7 +17,7 @@
 
 - **Reference:**
   - [Last Meeting - MAy 7th, 2024 16:00 UTC](./20240507-Internal-Minutes.md)
-  - [Next Meeting - May 14th, 2024 16:00 UTC]()
+  - [Next Meeting - May 21th, 2024 16:00 UTC]()
 
 # Itemized Agenda
 
