@@ -121,6 +121,8 @@
 ## New Business
 
 1. Community Education - Chain Maintenance
+1. Q3 Budget
+1. Q1 Compensation
 
 ## TABLED ITEMS (pushed to a future meeting)
 
