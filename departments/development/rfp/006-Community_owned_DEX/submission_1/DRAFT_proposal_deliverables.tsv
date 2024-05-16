@@ -35,9 +35,9 @@ ID	Status	Description	Notes
 1.6.4	0 - Not started	Possibility to send fees to a custom contract that will handle the distribution	_
 1.7	0 - Not started	Tokenless governance: management by JUNO only thorugh Juno x/gov module	_
 1.8	0 - Not started	Skip integration	_
-1.8.1	0 - Not started	Allow the DEX to be added to the fair MEV mechanism already supported on Juno chain	_
-1.8.2	0 - Not started	Allow the DEX to be added to the Skip aggregation UIs like ibc.fun	_
-1.8.3	0 - Not started	Allow deposits/withdrawals with the Skip API	_
+1.8.1	0 - Not started	Enable the possibility of the DEX to be added to the fair MEV mechanism already supported on Juno chain	_
+1.8.2	0 - Not started	Enable the possibility of the DEX to be added to the Skip aggregation UIs like ibc.fun	_
+1.8.3	0 - Not started	Enable the possibility of deposits/withdrawals with the Skip API	_
 2	0 - Not started	MORE FEATURES Phase	_
 2.1	0 - Not started	Create Pool Page	_
 2.1.1	0 - Not started	UI to choose the assets pair to create a new constant product pool	_
@@ -59,11 +59,11 @@ ID	Status	Description	Notes
 4.1	0 - Not started	Release all code with open source licensing	_
 4.2	0 - Not started	Deploy the contract on Juno mainnet	_
 4.3	0 - Not started	Deploy the UI on agreed upon hosting	_
+4.4	0 - Not started	Finalize refinements from the Testing phase	_
+4.5	0 - Not started	Respond to questions from the Testing phase	_
 5	0 - Not started	SUPPORT Phase (for 6 months from completion of the Final Release phase)	_
 5.1	0 - Not started	Fix bugs	_
 5.2	0 - Not started	Support CosmWasm minor version upgrades	_
 5.3	0 - Not started	Support CosmJS minor version upgrades	_
 5.4	0 - Not started	Implement Security upgrades	_
 5.5	0 - Not started	Support developers	_
-5.6	0 - Not started	Finalize refinements from the Testing phase	_
-5.7	0 - Not started	Respond to questions from the Testing phase	_
