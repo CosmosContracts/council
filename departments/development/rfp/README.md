@@ -8,8 +8,7 @@ Each RFP should be stored in a folder named with the following convention:
 
 `[SEQUENTIAL_NUMBER]-[RFP_TITLE]`
 
-Example:
-`001-Chain_Upgrade_Support`
+Example: `001-Chain_Upgrade_Support`
 
 - `SEQUENTIAL_NUMBER`: A unique number assigned to each RFP in sequential order, starting from 001.
 - `RFP_TITLE`: short, clear and direct RFP title.
@@ -20,4 +19,4 @@ Each RFP folder should contain the following sub-folders and files:
 
 1. `proposal_request.md`: The RFP document that outlines the project overview, scope of work, proposal requirements, and submission guidelines.
 2. `status.md`: The status document that tracks the progress of the RFP process, including proposal submission dates, review committee members, and proposal review summary.
-3. `proposals`: A sub-folder containing all proposals submitted in response to the RFP.
+3. `submission_[ X ]`: A folder will be created for each qualified submission. This folder will contain all proposals, revised proposals, counter proposals. Each document name starts with a number, that represents the order in which the documents were produced.
