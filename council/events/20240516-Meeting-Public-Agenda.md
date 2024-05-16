@@ -28,6 +28,8 @@
 
 ## New Business
 
+1. Changing the Starting Hour of the Meeting
+
 1. Budget Discussion
   - Set dates for Q3 budget draft submission
     - May 31st, 2024
