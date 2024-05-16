@@ -24,9 +24,11 @@
 ## Old Business
 
 1. Approve Previous Meeting Minutes:
-    - [ ] [May 2nd, 2024 14:00 UTC](./20240502-Meeting-Public-Minutes.md)
+    - [ ] [May 3rd, 2024 14:00 UTC](./20240503-Meeting-Public-Minutes.md)
 
 ## New Business
+
+1. Changing the Starting Hour of the Meeting
 
 1. Budget Discussion
   - Set dates for Q3 budget draft submission
