@@ -31,3 +31,7 @@
 - Location: Discord #stage channel
 - Presenter: Submission 1
   - [Markdown](./submission_1.md)
+
+#### May 14th, 2024
+
+- Received [Revised Proposal](./submission_1/2_revision.md) from Vendor
