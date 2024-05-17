@@ -45,3 +45,7 @@
 #### May 15th, 2024
 
 - Received [Counter Proposal](./submission_1/4_counter_proposal_suggestion.md) responsed from Vender, asking for a revised counter proposal
+
+#### May 17th, 2024
+
+- Development Department [Reply to Counter Proposal](./submission_1/5_counter_proposal.md) sent to Vendor via Email and published on Github
