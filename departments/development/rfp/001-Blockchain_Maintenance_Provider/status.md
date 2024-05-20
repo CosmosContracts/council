@@ -11,7 +11,7 @@
 ### Proposal Review Committee Members
 
 - [x] @kopeboy
-- [x] @poroburu
+- [ ] @poroburu
 - [x] @Dat-Andre
 - [x] @rayraspberry
 - [ ] @JakeHartnell (Meow)
