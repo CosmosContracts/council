@@ -85,12 +85,14 @@ This DAO is a member of the Juno Council and adheres to its official [COI policy
 
 ## Current COI disclosures by our members
 
-|COI Definition|Entity|Period|Member|
-|-|-|-|-|
-1.1 Compensation from|[Company brand name](https://www.company.com/)|indefinite|Member 1 `juno1__MEMBER_ADDRESS__`|
-1.1 Compensation from|[DAO name](https://explorer.com/wasm/contract/[dao:address])|Jan-June 2024|Member 2 `juno1__MEMBER_ADDRESS__`|
-1.2 Rights on receiver|[Chaintools validator](https://www.mintscan.io/juno/validators/junovaloper1dru5985k4n5q369rxeqfdsjl8ezutch8mc6nx9)|indefinite|Member 3 `juno19nt2pfvcrpsgasm2rv2mpalsd52hq69tyhyfn8`|
-1.3 Significant share of|[WOSMO DAO](https://daodao.zone/dao/osmo1elw4psm8sddcvu8fsdx3hs0zkctcdzwu8qspuxzthepc6ev55c8qvp08u6/treasury)|indefinite|Member 3 `juno1__MEMBER_ADDRESS__`|
+|DID*|COI Definition|Entity|Period|Member|
+|-|-|-|-|-|
+1|1.1 Compensation from|[Company brand name](https://www.company.com/)|indefinite|Member 1 `juno1__MEMBER_ADDRESS__`|
+2|1.1 Compensation from|[DAO name](https://explorer.com/wasm/contract/[dao:address])|Jan-June 2024|Member 2 `juno1__MEMBER_ADDRESS__`|
+3|1.2 Rights on receiver|[Chaintools validator](https://www.mintscan.io/juno/validators/junovaloper1dru5985k4n5q369rxeqfdsjl8ezutch8mc6nx9)|indefinite|Member 3 `juno19nt2pfvcrpsgasm2rv2mpalsd52hq69tyhyfn8`|
+4|1.3 Significant share of|[WOSMO DAO](https://daodao.zone/dao/osmo1elw4psm8sddcvu8fsdx3hs0zkctcdzwu8qspuxzthepc6ev55c8qvp08u6/treasury)|indefinite|Member 3 `juno1__MEMBER_ADDRESS__`|
+
+* DID = Disclosure's unique ID (serial number)
 
 ## How to report undisclosed COI
 
