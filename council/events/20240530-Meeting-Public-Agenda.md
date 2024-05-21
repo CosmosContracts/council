@@ -3,7 +3,7 @@
 ###### tags: `Meeting` `Juno` `Council`
 
 - **Location:** #meetings https://discord.com/channels/816256689078403103/1185233414547329085
-- **Date:** May 30th, 2024 15:00 UTC
+- **Date:** May 30th, 2024 19:00 UTC
 - **Agenda**
 
 1. Open Meeting
@@ -17,7 +17,7 @@
 
 - **Reference:** 
   - [Last Meeting - May 16th, 2024 15:00 UTC](./20240516-Meeting-Public-Minutes.md)
-  - [Next Meeting - June 13th, 2024 18:00 UTC]()
+  - [Next Meeting - June 13th, 2024 19:00 UTC]()
 
 # Itemized Agenda
 
