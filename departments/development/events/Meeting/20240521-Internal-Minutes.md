@@ -223,8 +223,6 @@
 
 - **Poro: Thanked Ray and The Council for faithfully listening to Poro's championed concerns about informing the Juno Commonwealth about the magnitude of core-1 vesting on the health of the Juno Network protocol**
 
-- *Lorenzo: (Poro's editorial note, I lost track of his council comment, please update the meeting minutes to include his comment)*
-
 ## TABLED ITEMS (pushed to a future meeting)
 
 1. Hackathon for Juno
