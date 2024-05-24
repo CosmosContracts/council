@@ -4,11 +4,11 @@
 
 ### 1. TERM
 
-    Each department consists of a maximum of 5 delegate seats and a regular term of office is 12 months. There is no limit to the number of terms a person can serve as department delegate, meaning a delegate can be elected and serve more than one term whether concurrently or non concurrently. 
+    Each department consists of a maximum of 5 delegate seats and a regular term of office is 12 months. There is no limit to the number of terms a person can serve as department delegate, meaning a delegate can be elected and serve more than one term, consequently or not.  
 
 ### 2. REMOVAL
 
-    A delegate can be removed by a majority vote of his department, by a proposal from the community or by resigning of his own violation. A delegate's resignation may be offered verbally or in writing. If the delegate does not specify a resignation date, then the resignation takes effect when it is announced. A delegate saying “I quit!" during a department meeting – is enough to complete the resignation process.
+    A delegate can be removed by a majority vote of his department or by a proposal from the community through the Juno Governance module.
 
     In case a member of a department resigns or is removed during their term of office, the department has the option of holding new elections to find a delegate to complete the missing member's term. However, the department is not obliged to do so as long as the department has three or more members.
 
