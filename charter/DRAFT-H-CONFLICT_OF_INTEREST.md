@@ -1,6 +1,6 @@
 # AMENDMENT H: CONFLICT OF INTEREST
 
-This policy should replace `Section V.9 — Conflicts of Interest` of the Juno Charter (`00-CHARTER.md`).
+This policy should replace `Section V.9 — Conflicts of Interest` of the Juno Charter.
 
 ## Conflict Of Interest policy
 
