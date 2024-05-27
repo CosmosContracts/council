@@ -21,3 +21,4 @@ The Charter is a living document, and it can be amended by the community through
 - [Amendment E: Delegate Integrity](./DRAFT-E-DELEGATE_INTEGRITY.md)
 - [Amendment F: Delegate Remuneration](./DRAFT-F-DELEGATE_REMUNERATION.md)
 - [Amendment G: Charter Amendment Process](./DRAFT-G-AMENDMENT_PROCESS.md)
+- [Amendment H: Conflict Of Interest policy](./DRAFT-H-CONFLICT_OF_INTEREST.md)
