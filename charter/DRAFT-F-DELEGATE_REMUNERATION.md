@@ -10,8 +10,12 @@
 
 ### 2. ATTENDANCE
 
-    Any Delegate who does not attend at least 2 monthly meetings of his/her department is ineligible for compensation. To count as an official department meeting a meeting has to be announced at least 72 hours in advance on Discord and entered into the events calendar. 
+    Any Delegate who does not attend at least 2 meetings per month of their department is ineligible for compensation. To count as an official department meeting a meeting has to be announced at least 72 hours in advance on Discord and entered into the events calendar. 
 
 ### 3. REPORTING
 
     At the end of each month, departments tabulate department delegate attendance and submit the results through the department’s Council representative at the next Council meeting. It is the responsibility of the Operations Department to compile these lists and store them.
+
+### 4. INDEMNIFICATION
+
+    The Charter will indemnify its delegates as required and may indemnify others to cover legal costs incurred from work done on behalf of the network if wrongly arraigned. Indemnification payments are prioritized but will be managed to ensure the Juno network can meet other financial obligations.
