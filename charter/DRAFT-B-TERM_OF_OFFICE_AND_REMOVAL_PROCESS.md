@@ -4,7 +4,7 @@
 
 ### 1. TERM
 
-    Each department consists of a maximum of 5 delegate seats and a regular term of office is 12 months. There is no limit to the number of terms a person can serve as department delegate, meaning a delegate can be elected and serve more than one term whether  consecutively or non consecutively. 
+    Each department consists of a maximum of 5 delegate seats and a regular term of office is 12 months. There is no limit to the number of terms a person can serve as department delegate, meaning a delegate can be elected and serve more than one term whether  consecutively or non consecutively.
 
 ### 2. REMOVAL
 
