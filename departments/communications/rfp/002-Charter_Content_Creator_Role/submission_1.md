@@ -29,7 +29,7 @@ I am writing to submit my proposal for the Charter Content Creator role as detai
    - **Uploading:** Prepare and upload content to Juno’s Spotify channel in a timely manner, ensuring accessibility for the community.
 
 
-5. **Responsiveness and Availability:**
+4. **Responsiveness and Availability:**
    - Ensure daily responsiveness to meet the time-sensitive nature of communicative content production.
 
 ---
