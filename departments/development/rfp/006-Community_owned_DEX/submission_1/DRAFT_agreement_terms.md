@@ -1,15 +1,19 @@
-# Terms of the Mercury agreement for the development of the Community Owned DEX
+# Terms of the Mercury DEX agreement for the development of the Community Owned DEX
 
 This proposal establishes the agreement between _signatories_ for the development of the "Mercury DEX", the winning proposal to the _Community Owned DEX_ RFP. All parts of this proposal, including the linked final versions of the _presentation_ and _deliverables_, are part of the agreement.
 
-**RFP** (by Operations Department): [link]
+**Request For Proposals (RFP)**: https://docs.google.com/document/d/1LP5V3_xcDVed33fDN-Lsf2pvwUiINqOOLDZRyBOdl-8
 
 **Proposal submissions**:
 
-1. by Kintsugi (awarded with [proposal #XX]()):
-  - _Presentation_ (final): [link]
-  - _Deliverables_: [Github link], [Press immutable post link]
-  - 
+  1. "Mercury DEX" by Kintsugi:
+
+     - _Presentation_: [link]
+     - _Deliverables_: [Github link], [Press immutable post link]
+     - Endorsement by Operations Department: [Proposal #40](https://daodao.zone/dao/juno1mjsgk02jyn72jm2x7fgw72uu9wj7xy0v6pnuj2jd3aq7rgeqg5qq4dnhes/proposals/A40)
+     - Approval by the Council as part of the Q2 2024 Budget: [Proposal #12](https://daodao.zone/dao/juno1nmezpepv3lx45mndyctz2lzqxa6d9xzd2xumkxf7a6r4nxt0y95qypm6c0/proposals/A12)
+     
+
 **Status updates & technical verification**: Development Department will verify the deliverables officially submitted by Kintsugi with "Status Update" proposals on this DAO, and refute or accept (and pay accordingly, as defined below) by voting on this DAO.
 
 ## Payments
