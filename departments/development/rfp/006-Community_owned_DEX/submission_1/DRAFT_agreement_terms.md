@@ -3,10 +3,13 @@
 This proposal establishes the agreement between _signatories_ for the development of the "Mercury DEX", the winning proposal to the _Community Owned DEX_ RFP. All parts of this proposal, including the linked final versions of the _presentation_ and _deliverables_, are part of the agreement.
 
 **RFP** (by Operations Department): [link]
+
 **Proposal submissions**:
+
 1. by Kintsugi (awarded with [proposal #XX]()):
   - _Presentation_ (final): [link]
   - _Deliverables_: [Github link], [Press immutable post link]
+  - 
 **Status updates & technical verification**: Development Department will verify the deliverables officially submitted by Kintsugi with "Status Update" proposals on this DAO, and refute or accept (and pay accordingly, as defined below) by voting on this DAO.
 
 ## Payments
