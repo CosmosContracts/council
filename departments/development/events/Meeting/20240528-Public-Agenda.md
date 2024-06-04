@@ -1,9 +1,9 @@
-# Juno Dev Dept Meeting Agenda - May 28th, 2024
+# Juno Dev Dept Meeting Agenda - June 4th, 2024
 
 ###### tags: `Meeting` `Juno` `Development Department`
 
 - **Location:** #meetings https://discord.com/channels/816256689078403103/1185233414547329085
-- **Date:** May 28th, 2024 16:00 UTC
+- **Date:** June 4th, 2024 16:00 UTC
 - **Agenda**
 
 1. Open Meeting
@@ -17,7 +17,7 @@
 
 - **Reference:**
   - [Last Meeting - April 23th, 2024 16:00 UTC](./20240521-Internal-Minutes.md)
-  - [Next Meeting - June 4th, 2024 16:00 UTC]()
+  - [Next Meeting - June 11th, 2024 16:00 UTC]()
 
 # Itemized Agenda
 
