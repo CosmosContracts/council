@@ -10,7 +10,7 @@
 
 ### 2. COMMUNICATION PROTOCOLS
 
-    The purpose of the public department meetings is to give the community the opportunity to obtain information and provide feedback. A distinction is made between internal meetings which the public may attend and public meetings in which the public may participate and speak. At internal public meetings, the focus is on coordination between the delegates of a department, while providing community members the ability to observe, but not the right to participate. Weekly meetings are recommended, but only one per month is mandatory. In addition, this revision makes one further public “stage” meeting per month mandatory. “Stage” meetings are used for direct dialogue with community members and an allocated portion of the meeting for community engagement. (f.e. stage-meeting on Discord or Twitter space).
+    The purpose of the public department meetings is to give the community the opportunity to obtain information and provide feedback. A distinction is made between internal meetings which the public may attend and public meetings in which the public may participate and speak. At internal public meetings, the focus is on coordination between the delegates of a department, while providing community members the ability to observe, but not the right to participate. Weekly meetings are recommended, but only one internal meeting per month is mandatory. In addition, this revision makes one further public “stage” meeting per month mandatory. “Stage” meetings are used for direct dialogue with community members and an allocated portion of the meeting for community engagement. (f.e. stage-meeting on Discord or Twitter space).
 
 ### 3. CONTRIBUTION GUIDELINES
 
