@@ -3,8 +3,10 @@
 ###### tags: `Meeting` `Juno` `Development Department`
 
 - **Location:** [#stage-meetings](https://discord.com/channels/816256689078403103/1195704025664978966)
-
 - **Date:** June 4th, 2024 16:00 UTC
+- **Recording**:
+   - available for download in various formats & separate tracks for the first 7 days at https://craig.horse/rec/5aeUYX91yJ90?key=FNeTXr
+   - later to be uploaded on [Juno Communications Podcast (Spotify)](https://open.spotify.com/show/08gPyEBs5c9ySgdsldjVHF?si=78765f126ee04d41) by Comms Dept.
 
 - **Agenda**
 1. Open Meeting
