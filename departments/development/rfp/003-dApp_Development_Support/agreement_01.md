@@ -1,14 +1,16 @@
-# Counter-Proposal from Development Department
+# Agreement for RFP-03
 
-May 17th, 2024
+June 7th, 2024
 
 ## Blockchain dApp Development Support
+
+The Vendor is [RFP 03 DAO] and the Client is [Juno Network Development Department]
 
 ### Overview - Approach and Methodology:
 
 #### Length of Agreement Terms
 
-Trial period of **two months** to demonstrate Vendor capabilities and compatibility with the Juno Network.
+Trial period from June 10th, 2024 until August 10th, 2024 to demonstrate Vendor capabilities and compatibility with the Juno Network.
 
 This timeframe will allow both parties to assess the effectiveness of collaboration and ensure that it aligns with the goals and expectations of all stakeholders involved.
 
@@ -92,7 +94,10 @@ Additional Currently Undefined Developer Resources may be defined by Vendor and 
 
 ### Reporting and Communication
 
-The Vendor will provide a report to the Development Department email address dev.dept@juno.zone on a weekly basis known as a **Work Report**.
+The Vendor will provide reports to the [`https://github.com/CosmosContracts/council/edit/main/departments/development/rfp/003-dApp_Development_Support/work_reports/`] on a weekly basis known as a **Work Report**
+
+Report naming format will follow this format:
+`yyyymmdd-yyyymmdd-work_report.md`
 
 Time spent by the Vendor generating Work Reports should be considered billable to Development Department.
 
@@ -122,13 +127,24 @@ Time spent by the Vendor generating Work Reports should be considered billable t
 
 ## Compensation
 
-**"Billing Period"** is defined as one full calendar month.
+**"Billing Period"** are defined as either:
+* the first day through the 15th day of a month
+* the 16th day through the last day of each month
 
-**Request for Payment** submissions consist of the tabulation of weekly work reports from the prior Billing Period.
+**Request for Payment** submissions consist of the tabulation of weekly work reports from prior Billing Periods.
+  Work Reports per month are as follows:
+  * Day 01 through Day 07
+  * Day 08 through Day 15
+  * Day 16 through Day 23
+  * Day 24 through the final day of the month
 
-The Vendor agrees to submit requests for payment of the previous Billing Period within the first week of the following Billing Period.
+The Vendor agrees to submit requests for payment as a proposal on [RFP 3 DAO] for a Billing Period(s) by the end of the 7th day after the end of the Billing Period.
 
-Development Department is committed to fulfilling or rejecting requests for Payment within 14 days after being received from the Vendor to the Development Department email address: dev.dept@juno.zone
+Payment proposals on DAODAO will include:
+* Links to each work report on GitHub for which compensation is to be considered
+* Hours of compensation requested (for each rate, currently: General Rate, Senior Techinical Resource Rate)
+
+Development Department is committed to fulfilling or rejecting requests for Payment within 14 days after being received from the Vendor to the [RFP 3 DAO] as a proposal for payment.
 
 #### Rate
 
@@ -139,6 +155,6 @@ _The hourly rates in requests for payment will be as follows:_
 
 ### Billing Period Payment Limitation for Services
 
-Vendor agrees that maximum payment request limit per Billing Period is **2000 USDC**
+Vendor agrees that maximum payment request limit per Billing Period is **1000 USDC**
 
 Any Billing Period payment request that exceeds the maximum payment limit must be approved by Development Department using an on-chain DAODAO proposal prior to payment request submission.
