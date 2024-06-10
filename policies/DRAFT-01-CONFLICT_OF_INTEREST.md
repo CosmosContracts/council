@@ -40,13 +40,14 @@
 
 ### Pre-requisites
 - Council members create the ["COI Reporting" form](#coi-reporting-form).
-- Each Department and the Council DAOs activate the DAODAO's Press widget.
+- Each Department activates the DAODAO's Press widget.
 ### Activation
-- One member proposes the policy to the Council through his Department, by adding its text and the link to the COI Reporting form in a Press post (which will mint an NFT to the DAO with the IPFS CID as token ID).
-- Optionally, each department's Council Representative collects initial COI Disclosures from his department's members to fill the "Conflict Of Interest Disclosures" post on creation.
-- Each Representative (or one of each Department members) creates the "Conflict Of Interest Disclosure" Press post on its Department, in which he links the Council's policy & "COI Reporting" form.
-### Monitoring
-- Each member updates the "Conflict Of Interest Disclosure" post by listing his current COI disclosures with a proposal to his department.
+- One member proposes the policy to the Council through his Department, by adding its text and the link to the COI Reporting form in a text proposal.
+- Optionally, each department collects initial COI Disclosures from its members to mint the first "Conflict Of Interest Disclosures" Press post in the same proposal.
+- Each Department Representative or member creates the "Conflict Of Interest Disclosure" Press post on its Department, in which he links the Council's proposal containing the policy & "COI Reporting" form, together with his disclosures table.
+
+### Maintenance & Monitoring
+- Each member updates the "Conflict Of Interest Disclosure" Press post by listing his current COI disclosures with a proposal to his department.
 - Anyone submits to the "COI Reporting" form to inform the whole Council of an undisclosed COI or a violation to the policy by a member.
 - Any Council member verifies the submission and either does nothing (false or unverifiable) or confirms it by proposing to the Council to freeze the subject member's compensation & redirect it to the reporter.
 
