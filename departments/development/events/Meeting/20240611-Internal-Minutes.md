@@ -147,6 +147,6 @@
 
 3. Council Meeting Preparation
 
-   - @andre: I won't run again for the position in the Dev Dept. I would like to add these points to the next council meeting: #TODO.
+   - @andre: I won't run again for the position in the Dev Dept. For the next council meeting I would to stress on the importance of collecting the Juno assets' info as defined in the Asset Management working group.
    - @kopeboy: no well-formed agenda items to add from me at this time.
    - @ray: I won't run again either. I will try to write a review of my time here at Juno Council. The most difficult part I think is to align the incentives. The amount of work that Juno requires is substantial and it needs engaged people and probably more compensation, but it's hard to do that without revenues.
