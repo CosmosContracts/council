@@ -62,5 +62,7 @@
 1. GitHub Ownership
   - Owners, Members, CODEOWNERS
 
-1. Security Couuncil
+1. Security Council
 - Meeting
+
+1. dApp Developer Hiring 
