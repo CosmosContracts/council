@@ -27,5 +27,6 @@
     - [x] Submissions Reviewed
     - [x] Shortlist of Candidates Selected
     - [x] Candidates Contacted by Review Committee
-    - [ ] Candidates Selected for Public Proposal Presentation
+    - [x] Candidates Selected for Public Proposal Presentation
+        - [ ] Submission 1 - Monday, June 17th, 16:00 UTC - Juno Discord, Stage
     - [ ] Winning Bid Selected
