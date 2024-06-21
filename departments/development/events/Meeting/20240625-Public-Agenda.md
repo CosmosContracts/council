@@ -80,6 +80,13 @@
 
 ### New Business
 
+1. dApp Support Role (RFP-003)
+  - Review [Work Log](https://github.com/CosmosContracts/council/blob/main/departments/development/rfp/003-dApp_Development_Support/work_reports/20240610-20240617-work_report.md)
+    - [ ] Questions / Discussion
+    - [ ] Approve Work Report
+  - First Pay Period Compensation Proposal Discussion
+    - [ ] Create Proposal
+  
 1. Q2 Compensation
   - **ACTION**
   - [ ] Submit Proposal to Department to Compensate Delegates for Q2
